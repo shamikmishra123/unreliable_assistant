@@ -1,0 +1,100 @@
+{
+ "algorithm": "ed25519",
+ "manifest": {
+  "server": "mcp-state-store",
+  "tools": [
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "398a24f116658b888f050cfe232259615c4d715ca48920502cd68f98d3a6f487",
+    "internal": true,
+    "name": "add_turn",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "b9f31d7b97a6b8819536af70979d1dd8df3391d41de161851ba1a8a5d33ebc94",
+    "internal": true,
+    "name": "append_audit",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "f9bbc8910d514157fde04a249e9242f7f45def96acbd8d7f3132323d75c22ba8",
+    "internal": true,
+    "name": "approval_view",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "30ae95f8280af16a6558f696d8ef02dc3175665c6fceec48e141837ea0a960f7",
+    "internal": true,
+    "name": "audit_events",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "bb9f0fcaf5b899c8c9cf09d40e46903b59f5c82ae6a6e2321f6147a2aab68f1b",
+    "internal": true,
+    "name": "decide_approval",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "60eac6e12cd4169920e11d3f13d812c6ae9ab41e1e7dedbcb32faae8dee6ab7b",
+    "internal": false,
+    "name": "get_approval",
+    "tier": "TIER_1_READ"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "bb29fc94ab5988bd6535579260b781a152cb23d49cd6c4aaa6ad83d9adb80837",
+    "internal": false,
+    "name": "get_session_facts",
+    "tier": "TIER_1_READ"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "cc268f7794c91b88fc32cc2beb00515aaf90b0215ba7ed7540ccdbf2c991b7b3",
+    "internal": true,
+    "name": "list_approvals",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "0392d5e1e68a5395d82e1af99f5c2f5aeb6abebe9b0460e1a1f02d0401921a8b",
+    "internal": false,
+    "name": "lookup_lot",
+    "tier": "TIER_1_READ"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "0a3ddd84045df60635e6bd1801069d204c0d2b00df4fcafd45fffb2206e4eb8b",
+    "internal": false,
+    "name": "put_session_fact",
+    "tier": "TIER_2_COMPUTE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "24fe022d284a89f278417854456c8df6ab21511758c51af53efa5a456f9610e6",
+    "internal": true,
+    "name": "recent_turns",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": true,
+    "input_schema_sha256": "1224a08b17131960fcdfe2b6f7b4a0957761ad21bb52d4d27c37a8791ad5230c",
+    "internal": false,
+    "name": "submit_transaction",
+    "tier": "TIER_3_MUTATE"
+   },
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "b1f05deccc8ebf7debde243d6335e7bc4de4a5925a73ffd668d3a7afb1b127a8",
+    "internal": true,
+    "name": "verify_audit",
+    "tier": "TIER_3_MUTATE"
+   }
+  ]
+ },
+ "signature": "216152de50e4f94eee9b112311a9094ba2e5bc36ec1138209c21c1156d96dd2d51f3e824ea2563883b6f69ec89200cec1a1c71287dd9ac3f49a6be46f862b30f"
+}

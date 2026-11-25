@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-11-25T06:03:03+00:00",
+  "total": 240,
+  "by_category": {
+    "factoid": 62,
+    "complex_reasoning": 58,
+    "multi_hop": 50,
+    "summary": 33,
+    "negative": 37
+  },
+  "by_tenant": {
+    "tenant_a": 216,
+    "tenant_b": 24
+  },
+  "generator": "claude-haiku-5-5",
+  "judge": "claude-sonnet-5-5",
+  "short_of_quota": {
+    "complex_reasoning/tenant_a": [
+      54,
+      59
+    ],
+    "summary/tenant_a": [
+      30,
+      35
+    ]
+  },
+  "task_outcomes": {
+    "accepted": 240,
+    "judge": 97,
+    "unreadable judge reply": 137,
+    "quota full or duplicate": 20,
+    "unreadable generation": 196,
+    "near duplicate": 1,
+    "multi-hop used only one note": 1
+  },
+  "usage": {
+    "claude-haiku-5-5": {
+      "input": 465850,
+      "output": 293206,
+      "calls": 692
+    },
+    "claude-sonnet-5-5": {
+      "input": 479382,
+      "output": 104072,
+      "calls": 494
+    }
+  },
+  "seed": 11
+}

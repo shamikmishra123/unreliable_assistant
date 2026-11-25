@@ -1,0 +1,16 @@
+{
+ "algorithm": "ed25519",
+ "manifest": {
+  "server": "mcp-hybrid-rag",
+  "tools": [
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "191d76770c79b5c2cb9c5b01368e86bb2590910760187d834ab458cc24f904e1",
+    "internal": false,
+    "name": "hybrid_retrieve",
+    "tier": "TIER_1_READ"
+   }
+  ]
+ },
+ "signature": "f56116ff9099ce9c72dae26680330269b419d728ac1ba8d313e608edb3ba72c3134935d3948fce68a0879d5e9c2da114dbec366c7faa816693cf5331f36c9c02"
+}

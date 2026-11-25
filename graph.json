@@ -1,0 +1,649 @@
+{
+ "code": {
+  "modules": {
+   "assistant": {
+    "imports": [],
+    "path": "assistant/__init__.py",
+    "schemas": []
+   },
+   "assistant.api": {
+    "imports": [
+     "assistant.config",
+     "assistant.contracts",
+     "assistant.orchestrator",
+     "assistant.services",
+     "assistant.state",
+     "assistant.worker"
+    ],
+    "path": "assistant/api.py",
+    "schemas": [
+     "DecisionIn",
+     "QueryIn"
+    ]
+   },
+   "assistant.cache": {
+    "imports": [],
+    "path": "assistant/cache.py",
+    "schemas": []
+   },
+   "assistant.config": {
+    "imports": [],
+    "path": "assistant/config.py",
+    "schemas": []
+   },
+   "assistant.contracts": {
+    "imports": [],
+    "path": "assistant/contracts.py",
+    "schemas": [
+     "CallContext",
+     "DeviationPayload",
+     "GetApprovalIn",
+     "GetSessionFactsIn",
+     "GraphSubgraphIn",
+     "HybridRetrieveIn",
+     "LookupLotIn",
+     "LookupLotOut",
+     "LotPayload",
+     "PutSessionFactIn",
+     "SessionFact",
+     "StatusPayload",
+     "SubmitTransactionIn",
+     "_Strict"
+    ]
+   },
+   "assistant.execution": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.harness"
+    ],
+    "path": "assistant/execution.py",
+    "schemas": []
+   },
+   "assistant.graph": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.rag.corpus"
+    ],
+    "path": "assistant/graph.py",
+    "schemas": []
+   },
+   "assistant.graphify": {
+    "imports": [
+     "assistant.graph",
+     "assistant.rag.corpus"
+    ],
+    "path": "assistant/graphify.py",
+    "schemas": []
+   },
+   "assistant.harness": {
+    "imports": [
+     "assistant.contracts"
+    ],
+    "path": "assistant/harness.py",
+    "schemas": []
+   },
+   "assistant.llm": {
+    "imports": [
+     "assistant.verify"
+    ],
+    "path": "assistant/llm.py",
+    "schemas": []
+   },
+   "assistant.mcp_common": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.harness"
+    ],
+    "path": "assistant/mcp_common.py",
+    "schemas": []
+   },
+   "assistant.orchestrator": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.execution",
+     "assistant.harness",
+     "assistant.llm",
+     "assistant.prompt",
+     "assistant.security",
+     "assistant.services",
+     "assistant.triage",
+     "assistant.verify"
+    ],
+    "path": "assistant/orchestrator.py",
+    "schemas": []
+   },
+   "assistant.prompt": {
+    "imports": [
+     "assistant.llm"
+    ],
+    "path": "assistant/prompt.py",
+    "schemas": []
+   },
+   "assistant.rag": {
+    "imports": [],
+    "path": "assistant/rag/__init__.py",
+    "schemas": []
+   },
+   "assistant.rag.corpus": {
+    "imports": [],
+    "path": "assistant/rag/corpus.py",
+    "schemas": []
+   },
+   "assistant.rag.index": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.rag.corpus",
+     "assistant.security"
+    ],
+    "path": "assistant/rag/index.py",
+    "schemas": []
+   },
+   "assistant.security": {
+    "imports": [
+     "assistant.contracts"
+    ],
+    "path": "assistant/security.py",
+    "schemas": []
+   },
+   "assistant.seed": {
+    "imports": [
+     "assistant.config",
+     "assistant.state"
+    ],
+    "path": "assistant/seed.py",
+    "schemas": []
+   },
+   "assistant.services": {
+    "imports": [
+     "assistant.cache",
+     "assistant.config",
+     "assistant.graph",
+     "assistant.harness",
+     "assistant.llm",
+     "assistant.rag.index",
+     "assistant.state",
+     "assistant.tools"
+    ],
+    "path": "assistant/services.py",
+    "schemas": []
+   },
+   "assistant.state": {
+    "imports": [],
+    "path": "assistant/state.py",
+    "schemas": []
+   },
+   "assistant.state_internal": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.harness",
+     "assistant.state",
+     "assistant.worker"
+    ],
+    "path": "assistant/state_internal.py",
+    "schemas": [
+     "AddTurnIn",
+     "AppendAuditIn",
+     "ApprovalViewIn",
+     "AuditEventsIn",
+     "DecideApprovalIn",
+     "ListApprovalsIn",
+     "RecentTurnsIn",
+     "VerifyAuditIn",
+     "_S"
+    ]
+   },
+   "assistant.tools": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.graph",
+     "assistant.harness",
+     "assistant.rag.index",
+     "assistant.state"
+    ],
+    "path": "assistant/tools.py",
+    "schemas": []
+   },
+   "assistant.triage": {
+    "imports": [
+     "assistant.contracts"
+    ],
+    "path": "assistant/triage.py",
+    "schemas": []
+   },
+   "assistant.verify": {
+    "imports": [],
+    "path": "assistant/verify.py",
+    "schemas": []
+   },
+   "assistant.worker": {
+    "imports": [
+     "assistant.contracts",
+     "assistant.state"
+    ],
+    "path": "assistant/worker.py",
+    "schemas": []
+   }
+  }
+ },
+ "vault": {
+  "edges": {
+   "catalog-sku-017": [
+    "catalog-sku-120",
+    "safety-ppe-requirements"
+   ],
+   "catalog-sku-042": [
+    "catalog-sku-099"
+   ],
+   "catalog-sku-099": [
+    "safety-protocol-lot-verification"
+   ],
+   "catalog-sku-099-riverside": [
+    "sop-lot-release-riverside"
+   ],
+   "catalog-sku-120": [
+    "catalog-sku-099",
+    "sop-cold-chain"
+   ],
+   "catalog-sku-310-riverside": [
+    "catalog-sku-099-riverside"
+   ],
+   "glossary": [],
+   "policy-access-control": [
+    "policy-assistant-scope",
+    "sop-hold-reject",
+    "glossary"
+   ],
+   "policy-assistant-scope": [
+    "sop-lot-release",
+    "policy-pii"
+   ],
+   "policy-data-retention": [
+    "policy-pii",
+    "sop-training",
+    "sop-recall"
+   ],
+   "policy-escalation-riverside": [
+    "sop-deviation-riverside",
+    "sop-lot-release-riverside"
+   ],
+   "policy-pii": [
+    "policy-assistant-scope"
+   ],
+   "safety-ppe-requirements": [
+    "catalog-sku-017",
+    "safety-spill-response",
+    "safety-protocol-lot-verification"
+   ],
+   "safety-protocol-lot-verification": [
+    "sop-lot-release"
+   ],
+   "safety-spill-response": [
+    "safety-ppe-requirements",
+    "sop-deviation-capa"
+   ],
+   "sop-change-control": [
+    "sop-training",
+    "sop-cleaning-validation",
+    "glossary"
+   ],
+   "sop-cleaning-validation": [
+    "sop-change-control",
+    "sop-deviation-capa"
+   ],
+   "sop-cold-chain": [
+    "sop-temperature-excursion",
+    "safety-protocol-lot-verification",
+    "catalog-sku-099"
+   ],
+   "sop-deviation-capa": [
+    "sop-quarantine"
+   ],
+   "sop-deviation-riverside": [
+    "sop-lot-release-riverside",
+    "policy-escalation-riverside"
+   ],
+   "sop-hold-reject": [
+    "sop-quarantine"
+   ],
+   "sop-label-verification": [
+    "sop-lot-release",
+    "glossary"
+   ],
+   "sop-lot-release": [
+    "safety-protocol-lot-verification",
+    "sop-quarantine",
+    "policy-assistant-scope"
+   ],
+   "sop-lot-release-riverside": [
+    "catalog-sku-099-riverside"
+   ],
+   "sop-quarantine": [
+    "sop-deviation-capa"
+   ],
+   "sop-recall": [
+    "sop-quarantine",
+    "sop-deviation-capa"
+   ],
+   "sop-sampling-testing": [
+    "sop-hold-reject",
+    "sop-lot-release"
+   ],
+   "sop-supplier-qualification": [
+    "sop-change-control",
+    "catalog-sku-120"
+   ],
+   "sop-temperature-excursion": [
+    "sop-quarantine",
+    "sop-deviation-capa",
+    "sop-cold-chain"
+   ],
+   "sop-training": [
+    "sop-lot-release"
+   ]
+  },
+  "nodes": [
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-017",
+    "raw_tokens": 69,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-017 is Nitrile examination gloves, box of 100. Shelf life is 60 months from manufacture.",
+    "tenant": "tenant_a",
+    "title": "Catalog entry SKU-017",
+    "version": 2
+   },
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-042",
+    "raw_tokens": 38,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-042 is Glycerol buffer 1 L. Shelf life is 36 months from manufacture.",
+    "tenant": "tenant_a",
+    "title": "Catalog entry SKU-042",
+    "version": 1
+   },
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-099-riverside",
+    "raw_tokens": 31,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-099 at the Riverside plant is a ceramic filter cartridge. Shelf life is 36 months.",
+    "tenant": "tenant_b",
+    "title": "Riverside catalog entry SKU-099",
+    "version": 1
+   },
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-099",
+    "raw_tokens": 34,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-099 is Sterile saline 500 ml bag. Shelf life is 24 months from manufacture.",
+    "tenant": "tenant_a",
+    "title": "Catalog entry SKU-099",
+    "version": 2
+   },
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-120",
+    "raw_tokens": 69,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-120 is Sodium chloride 0.9 percent solution, 1 L bottle. Shelf life is 30 months from manufacture.",
+    "tenant": "tenant_a",
+    "title": "Catalog entry SKU-120",
+    "version": 3
+   },
+   {
+    "domain": "catalog",
+    "id": "catalog-sku-310-riverside",
+    "raw_tokens": 64,
+    "risk_tier": "TIER_1",
+    "summary": "SKU-310 at the Riverside plant is a stainless steel sampling valve. Shelf life is not limited.",
+    "tenant": "tenant_b",
+    "title": "Riverside catalog entry SKU-310",
+    "version": 1
+   },
+   {
+    "domain": "policy",
+    "id": "glossary",
+    "raw_tokens": 48,
+    "risk_tier": "TIER_1",
+    "summary": "QA means quality assurance. CAPA means corrective and preventive action. HITL means human in the loop, which is the reviewer approval step.",
+    "tenant": "tenant_a",
+    "title": "Glossary",
+    "version": 1
+   },
+   {
+    "domain": "policy",
+    "id": "policy-access-control",
+    "raw_tokens": 135,
+    "risk_tier": "TIER_1",
+    "summary": "There are three user roles: operator, reviewer and tenant admin. Operators can ask questions, look up lots and file requests. Reviewers approve or reject requests. Tenant admins manage users and roles",
+    "tenant": "tenant_a",
+    "title": "Access control policy",
+    "version": 3
+   },
+   {
+    "domain": "policy",
+    "id": "policy-assistant-scope",
+    "raw_tokens": 76,
+    "risk_tier": "TIER_1",
+    "summary": "The assistant answers policy, SOP and catalog questions from the approved vault and cites every claim it makes. It can look up lot status.",
+    "tenant": "tenant_a",
+    "title": "Scope of the operations assistant",
+    "version": 3
+   },
+   {
+    "domain": "policy",
+    "id": "policy-data-retention",
+    "raw_tokens": 78,
+    "risk_tier": "TIER_1",
+    "summary": "Audit records are kept for 7 years. Conversation turns are kept for 90 days and are then deleted. Training records are kept for 5 years, as set out in [[sop-training]].",
+    "tenant": "tenant_a",
+    "title": "Data retention policy",
+    "version": 2
+   },
+   {
+    "domain": "policy",
+    "id": "policy-escalation-riverside",
+    "raw_tokens": 76,
+    "risk_tier": "TIER_1",
+    "summary": "Open deviations that reach 14 days are escalated to the Plant Manager. Deviations that reach 30 days are reported to the corporate quality board.",
+    "tenant": "tenant_b",
+    "title": "Riverside escalation policy",
+    "version": 1
+   },
+   {
+    "domain": "policy",
+    "id": "policy-pii",
+    "raw_tokens": 46,
+    "risk_tier": "TIER_1",
+    "summary": "Personal data such as email addresses, phone numbers and national ID numbers must not be entered into requests. The assistant redacts them before processing and does not store them.",
+    "tenant": "tenant_a",
+    "title": "Personal data policy",
+    "version": 2
+   },
+   {
+    "domain": "safety",
+    "id": "safety-ppe-requirements",
+    "raw_tokens": 119,
+    "risk_tier": "TIER_1",
+    "summary": "Gloves and safety goggles are required in the production area at all times. Gloves are nitrile examination gloves, SKU-017, and are changed every 2 hours or after any visible contamination.",
+    "tenant": "tenant_a",
+    "title": "Personal protective equipment requirements",
+    "version": 3
+   },
+   {
+    "domain": "safety",
+    "id": "safety-protocol-lot-verification",
+    "raw_tokens": 85,
+    "risk_tier": "TIER_1",
+    "summary": "Lot verification confirms that the protocol reference on the lot record matches the approved safety protocol PROT-SAF-7 for LOT-00044 and that the storage temperature log stays between 2 and 8 degrees",
+    "tenant": "tenant_a",
+    "title": "Safety protocol for lot verification",
+    "version": 5
+   },
+   {
+    "domain": "safety",
+    "id": "safety-spill-response",
+    "raw_tokens": 100,
+    "risk_tier": "TIER_2",
+    "summary": "Any spill of more than 100 millilitres must be reported to the shift supervisor within 15 minutes. The area is closed off and the spill is contained with absorbent material.",
+    "tenant": "tenant_a",
+    "title": "Spill response procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-change-control",
+    "raw_tokens": 131,
+    "risk_tier": "TIER_2",
+    "summary": "Any change to a process, a protocol or a supplier needs a written change request. QA must review each change request within 10 business days.",
+    "tenant": "tenant_a",
+    "title": "Change control procedure",
+    "version": 5
+   },
+   {
+    "domain": "quality",
+    "id": "sop-cleaning-validation",
+    "raw_tokens": 120,
+    "risk_tier": "TIER_2",
+    "summary": "Equipment must be cleaned and the cleaning verified before it changes over from one product to another. The cleaning process is validated under protocol PROT-CLN-4.",
+    "tenant": "tenant_a",
+    "title": "Cleaning validation procedure",
+    "version": 4
+   },
+   {
+    "domain": "quality",
+    "id": "sop-cold-chain",
+    "raw_tokens": 160,
+    "risk_tier": "TIER_2",
+    "summary": "Refrigerated products such as SKU-099 must be stored between 2 and 8 degrees Celsius at all times. Storage temperature is logged every 15 minutes by the cold room monitor under protocol PROT-SAF-7.",
+    "tenant": "tenant_a",
+    "title": "Cold chain storage procedure",
+    "version": 4
+   },
+   {
+    "domain": "quality",
+    "id": "sop-deviation-capa",
+    "raw_tokens": 83,
+    "risk_tier": "TIER_2",
+    "summary": "Any deviation must be recorded within 2 business days of detection. A CAPA (corrective and preventive action) is opened for each major deviation and must be closed within 30 days.",
+    "tenant": "tenant_a",
+    "title": "Deviation and CAPA procedure",
+    "version": 4
+   },
+   {
+    "domain": "quality",
+    "id": "sop-deviation-riverside",
+    "raw_tokens": 90,
+    "risk_tier": "TIER_2",
+    "summary": "At the Riverside plant every deviation must be logged within 24 hours of detection. A deviation that affects a lot is reported to the Quality Lead on the same day.",
+    "tenant": "tenant_b",
+    "title": "Riverside deviation handling",
+    "version": 1
+   },
+   {
+    "domain": "quality",
+    "id": "sop-hold-reject",
+    "raw_tokens": 77,
+    "risk_tier": "TIER_3",
+    "summary": "A hold is placed when a lot needs more testing. The lot status becomes ON_HOLD until testing is complete.",
+    "tenant": "tenant_a",
+    "title": "Hold and reject procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-label-verification",
+    "raw_tokens": 126,
+    "risk_tier": "TIER_2",
+    "summary": "Every lot label must show the lot ID, the SKU, the expiry date and the storage range. Labels are checked by two people, and the second checker must be a different person from the first.",
+    "tenant": "tenant_a",
+    "title": "Label verification procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-lot-release-riverside",
+    "raw_tokens": 39,
+    "risk_tier": "TIER_3",
+    "summary": "Lots at the Riverside plant are released by the Quality Lead after a 48 hour stability review. Lot release requests are filed through the Riverside portal.",
+    "tenant": "tenant_b",
+    "title": "Riverside plant lot release",
+    "version": 1
+   },
+   {
+    "domain": "quality",
+    "id": "sop-lot-release",
+    "raw_tokens": 114,
+    "risk_tier": "TIER_3",
+    "summary": "A lot may be released only after QA review is complete and the lot status is AVAILABLE. The release decision belongs to a reviewer.",
+    "tenant": "tenant_a",
+    "title": "Lot release procedure",
+    "version": 3
+   },
+   {
+    "domain": "quality",
+    "id": "sop-quarantine",
+    "raw_tokens": 85,
+    "risk_tier": "TIER_3",
+    "summary": "Quarantine is used when a lot shows a possible deviation or a failed check. A quarantined lot cannot be shipped or released until a reviewer decides.",
+    "tenant": "tenant_a",
+    "title": "Quarantine procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-recall",
+    "raw_tokens": 116,
+    "risk_tier": "TIER_3",
+    "summary": "A recall is started when a released lot is found to be unsafe or out of specification. Customers who received the lot must be notified within 24 hours of the recall decision.",
+    "tenant": "tenant_a",
+    "title": "Recall procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-sampling-testing",
+    "raw_tokens": 127,
+    "risk_tier": "TIER_2",
+    "summary": "For every lot of up to 1000 units, 5 units are sampled at random. For lots of more than 1000 units, 10 units are sampled. Samples are tested under protocol PROT-TST-2.",
+    "tenant": "tenant_a",
+    "title": "Sampling and testing procedure",
+    "version": 3
+   },
+   {
+    "domain": "quality",
+    "id": "sop-supplier-qualification",
+    "raw_tokens": 112,
+    "risk_tier": "TIER_2",
+    "summary": "A new supplier must pass a qualification audit under protocol PROT-SUP-3 before any of its materials are used. Qualified suppliers are re-audited every 24 months.",
+    "tenant": "tenant_a",
+    "title": "Supplier qualification procedure",
+    "version": 2
+   },
+   {
+    "domain": "quality",
+    "id": "sop-temperature-excursion",
+    "raw_tokens": 146,
+    "risk_tier": "TIER_3",
+    "summary": "A temperature excursion is any reading above 8 degrees Celsius or below 2 degrees Celsius in a refrigerated store. An excursion shorter than 30 minutes is logged and the lot stays AVAILABLE.",
+    "tenant": "tenant_a",
+    "title": "Temperature excursion procedure",
+    "version": 3
+   },
+   {
+    "domain": "policy",
+    "id": "sop-training",
+    "raw_tokens": 28,
+    "risk_tier": "TIER_1",
+    "summary": "Operators must complete the lot handling course before filing requests. Training records are kept for 5 years.",
+    "tenant": "tenant_a",
+    "title": "Operator training",
+    "version": 1
+   }
+  ]
+ },
+ "vault_digest": "86409ee854a8162ae35c2d97099bd057fa387a6a521327febcbbe5852aef9c94",
+ "version": 1
+}

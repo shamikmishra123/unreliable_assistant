@@ -1,0 +1,558 @@
+{"id": "pii-001", "kind": "none", "variant": "negative", "text": "Buffer pH 7.2 at 15.3 C, lot LOT-63816.", "pii": []}
+{"id": "pii-002", "kind": "phone", "variant": "spaces", "text": "309 633 8811 - ask for the QA lead", "pii": ["309 633 8811"]}
+{"id": "pii-003", "kind": "phone", "variant": "spaces", "text": "reach the night shift on 976 449 6449", "pii": ["976 449 6449"]}
+{"id": "pii-004", "kind": "email", "variant": "standard", "text": "maria_garcia@corp.example.org is the reviewer for this request.", "pii": ["maria_garcia@corp.example.org"]}
+{"id": "pii-005", "kind": "email", "variant": "words_at_dot", "text": "My details: olu dot adeyemi at outlook dot com", "pii": ["olu dot adeyemi at outlook dot com"]}
+{"id": "pii-006", "kind": "none", "variant": "negative", "text": "Hash 839422b107ec was logged for the build.", "pii": []}
+{"id": "pii-007", "kind": "email", "variant": "standard", "text": "Forward LOT-88392 status to a.kumar@riverside-plant.com please", "pii": ["a.kumar@riverside-plant.com"]}
+{"id": "pii-008", "kind": "card", "variant": "bare", "text": "billing card: 5541249933302554", "pii": ["5541249933302554"]}
+{"id": "pii-009", "kind": "phone", "variant": "parens", "text": "my number is (840) 925-3138, which lot is ready?", "pii": ["(840) 925-3138"]}
+{"id": "pii-010", "kind": "email", "variant": "standard", "text": "My details: maria_garcia@acme.io", "pii": ["maria_garcia@acme.io"]}
+{"id": "pii-011", "kind": "phone", "variant": "dashes", "text": "Escalate to 783-988-4219 after hours.", "pii": ["783-988-4219"]}
+{"id": "pii-012", "kind": "ssn", "variant": "bare_ctx", "text": "ssn 628828905 was typed in by mistake", "pii": ["628828905"]}
+{"id": "pii-013", "kind": "none", "variant": "negative", "text": "Verify LOT-30682 against protocol PROT-SAF-2.", "pii": []}
+{"id": "pii-014", "kind": "phone", "variant": "parens", "text": "reach the night shift on (738) 336-6203", "pii": ["(738) 336-6203"]}
+{"id": "pii-015", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-05-01 at 01:10:00.", "pii": []}
+{"id": "pii-016", "kind": "card", "variant": "fullwidth", "text": "card ５３００ ２９８８ ８４０８ ０１６５ was charged for the sample kit", "pii": ["５３００ ２９８８ ８４０８ ０１６５"]}
+{"id": "pii-017", "kind": "phone", "variant": "bare", "text": "5170243522 - ask for the QA lead", "pii": ["5170243522"]}
+{"id": "pii-018", "kind": "email", "variant": "words_at_dot", "text": "cc sarah dot connor at corp dot example dot org on the deviation", "pii": ["sarah dot connor at corp dot example dot org"]}
+{"id": "pii-019", "kind": "phone", "variant": "dashes", "text": "Operator phone: 492-188-5611", "pii": ["492-188-5611"]}
+{"id": "pii-020", "kind": "email", "variant": "words_at_dot", "text": "cc p dot rossi at mail dot co dot uk on the deviation", "pii": ["p dot rossi at mail dot co dot uk"]}
+{"id": "pii-021", "kind": "none", "variant": "negative", "text": "There are 3939 units and 13 samples in room 2.", "pii": []}
+{"id": "pii-022", "kind": "ssn", "variant": "dashes", "text": "my social security number is 639-95-6747", "pii": ["639-95-6747"]}
+{"id": "pii-023", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-05-03 at 07:41:00.", "pii": []}
+{"id": "pii-024", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-10-21 at 15:58:00.", "pii": []}
+{"id": "pii-025", "kind": "card", "variant": "dots", "text": "pay with 4645.8070.1384.5251", "pii": ["4645.8070.1384.5251"]}
+{"id": "pii-026", "kind": "none", "variant": "negative", "text": "Pack dimensions are 77 x 24 x 37 cm, weight 11.5 kg.", "pii": []}
+{"id": "pii-027", "kind": "phone", "variant": "dashes", "text": "Text 722-466-2082 when LOT-00044 ships", "pii": ["722-466-2082"]}
+{"id": "pii-028", "kind": "none", "variant": "negative", "text": "See section 8.3.1 and table 4 for limits.", "pii": []}
+{"id": "pii-029", "kind": "none", "variant": "negative", "text": "Buffer pH 5.6 at 19.3 C, lot LOT-45885.", "pii": []}
+{"id": "pii-030", "kind": "none", "variant": "negative", "text": "See section 4.8.1 and table 15 for limits.", "pii": []}
+{"id": "pii-031", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-06-22 at 10:41:00.", "pii": []}
+{"id": "pii-032", "kind": "phone", "variant": "parens", "text": "Escalate to (802) 146-5419 after hours.", "pii": ["(802) 146-5419"]}
+{"id": "pii-033", "kind": "phone", "variant": "arabic_indic", "text": "Text ٥٧٢ ٥٦٨ ٠٠٤٥ when LOT-00044 ships", "pii": ["٥٧٢ ٥٦٨ ٠٠٤٥"]}
+{"id": "pii-034", "kind": "none", "variant": "negative", "text": "Cycle count 32066 finished in 303 seconds with 2 faults.", "pii": []}
+{"id": "pii-035", "kind": "phone", "variant": "dashes", "text": "Operator phone: 857-017-7153", "pii": ["857-017-7153"]}
+{"id": "pii-036", "kind": "none", "variant": "negative", "text": "The dock door is number 4472.", "pii": []}
+{"id": "pii-037", "kind": "none", "variant": "negative", "text": "Pack dimensions are 14 x 61 x 24 cm, weight 16.7 kg.", "pii": []}
+{"id": "pii-038", "kind": "phone", "variant": "dashes", "text": "Text 332-771-4589 when LOT-00044 ships", "pii": ["332-771-4589"]}
+{"id": "pii-039", "kind": "phone", "variant": "dots", "text": "Text 287.693.9610 when LOT-00044 ships", "pii": ["287.693.9610"]}
+{"id": "pii-040", "kind": "none", "variant": "negative", "text": "Pack dimensions are 59 x 50 x 81 cm, weight 8.2 kg.", "pii": []}
+{"id": "pii-041", "kind": "ssn", "variant": "spaces", "text": "Please verify 275 92 5339 (SSN) against the record", "pii": ["275 92 5339"]}
+{"id": "pii-042", "kind": "email", "variant": "bracket_at_dot", "text": "Reach me at qa.lead[at]example[dot]com after the shift.", "pii": ["qa.lead[at]example[dot]com"]}
+{"id": "pii-043", "kind": "phone", "variant": "dots", "text": "Escalate to 812.801.0653 after hours.", "pii": ["812.801.0653"]}
+{"id": "pii-044", "kind": "email", "variant": "brace_at_dot", "text": "Forward LOT-88392 status to maria_garcia{at}plant-two{dot}net please", "pii": ["maria_garcia{at}plant-two{dot}net"]}
+{"id": "pii-045", "kind": "none", "variant": "negative", "text": "Gate 5 needs 57% coverage across 428 tests.", "pii": []}
+{"id": "pii-046", "kind": "email", "variant": "standard", "text": "Send the report to olu.adeyemi@gmail.com.", "pii": ["olu.adeyemi@gmail.com"]}
+{"id": "pii-047", "kind": "phone", "variant": "spelled_dashed", "text": "my number is two two four - five one zero - four four seven two, which lot is ready?", "pii": ["two two four - five one zero - four four seven two"]}
+{"id": "pii-048", "kind": "none", "variant": "negative", "text": "Lots 86, 96, 65, 3 and 53 are on hold.", "pii": []}
+{"id": "pii-049", "kind": "none", "variant": "negative", "text": "send it at the end of the shift", "pii": []}
+{"id": "pii-050", "kind": "phone", "variant": "dashes", "text": "my number is 592-641-2761, which lot is ready?", "pii": ["592-641-2761"]}
+{"id": "pii-051", "kind": "phone", "variant": "spaces", "text": "Text 569 420 0405 when LOT-00044 ships", "pii": ["569 420 0405"]}
+{"id": "pii-052", "kind": "card", "variant": "spaces", "text": "pay with 4875 8792 5148 7725", "pii": ["4875 8792 5148 7725"]}
+{"id": "pii-053", "kind": "card", "variant": "spaces", "text": "card 4478 0161 9707 1179 was charged for the sample kit", "pii": ["4478 0161 9707 1179"]}
+{"id": "pii-054", "kind": "email", "variant": "words_at_dot", "text": "Owner: dev dot ops at gmail dot com", "pii": ["dev dot ops at gmail dot com"]}
+{"id": "pii-055", "kind": "ssn", "variant": "bare_ctx", "text": "badge ssn 559357018 for the operator", "pii": ["559357018"]}
+{"id": "pii-056", "kind": "phone", "variant": "parens", "text": "(731) 474-0714 - ask for the QA lead", "pii": ["(731) 474-0714"]}
+{"id": "pii-057", "kind": "none", "variant": "negative", "text": "Verify LOT-77285 against protocol PROT-SAF-6.", "pii": []}
+{"id": "pii-058", "kind": "email", "variant": "paren_at_dot", "text": "cc dev.ops (at) gmail (dot) com on the deviation", "pii": ["dev.ops (at) gmail (dot) com"]}
+{"id": "pii-059", "kind": "phone", "variant": "intl_de", "text": "my number is +49 30 12345678, which lot is ready?", "pii": ["+49 30 12345678"]}
+{"id": "pii-060", "kind": "multi", "variant": "email+phone", "text": "Operator olu.adeyemi@outlook.com, phone (800) 595-6735, reported a deviation on LOT-00099.", "pii": ["olu.adeyemi@outlook.com", "(800) 595-6735"]}
+{"id": "pii-061", "kind": "phone", "variant": "dots", "text": "Text 644.011.7003 when LOT-00044 ships", "pii": ["644.011.7003"]}
+{"id": "pii-062", "kind": "phone", "variant": "dashes", "text": "Operator phone: 799-969-4981", "pii": ["799-969-4981"]}
+{"id": "pii-063", "kind": "phone", "variant": "plus1_dashes", "text": "reach the night shift on +1-714-470-3537", "pii": ["+1-714-470-3537"]}
+{"id": "pii-064", "kind": "card", "variant": "spelled", "text": "Visa four nine five one one five one one zero four two two four zero eight six exp 11/28", "pii": ["four nine five one one five one one zero four two two four zero eight six"]}
+{"id": "pii-065", "kind": "none", "variant": "negative", "text": "Both LOT-52742 and LOT-89781 map to SKU-341.", "pii": []}
+{"id": "pii-066", "kind": "email", "variant": "words_at_dot", "text": "Please contact k dot nowak at plant-two dot net about LOT-00044.", "pii": ["k dot nowak at plant-two dot net"]}
+{"id": "pii-067", "kind": "card", "variant": "spaces", "text": "pay with 5597 8091 4458 4465", "pii": ["5597 8091 4458 4465"]}
+{"id": "pii-068", "kind": "none", "variant": "negative", "text": "Lots 71, 54, 31, 44 and 69 are on hold.", "pii": []}
+{"id": "pii-069", "kind": "none", "variant": "negative", "text": "We are on version 11.3.5 of the SOP.", "pii": []}
+{"id": "pii-070", "kind": "card", "variant": "zero_width", "text": "pay with 53​61 211​1 6​564 9562", "pii": ["53​61 211​1 6​564 9562"]}
+{"id": "pii-071", "kind": "none", "variant": "negative", "text": "Invoice total $7,846.56 due in 35 days.", "pii": []}
+{"id": "pii-072", "kind": "email", "variant": "bracket_at_dot", "text": "cc olu.adeyemi[at]outlook[dot]com on the deviation", "pii": ["olu.adeyemi[at]outlook[dot]com"]}
+{"id": "pii-073", "kind": "email", "variant": "standard", "text": "tom@corp.example.org is the reviewer for this request.", "pii": ["tom@corp.example.org"]}
+{"id": "pii-074", "kind": "phone", "variant": "dots", "text": "reach the night shift on 617.231.2268", "pii": ["617.231.2268"]}
+{"id": "pii-075", "kind": "card", "variant": "amex", "text": "my credit card number is 3716 117596 61080", "pii": ["3716 117596 61080"]}
+{"id": "pii-076", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.87.244 on port 9270.", "pii": []}
+{"id": "pii-077", "kind": "email", "variant": "bracket_at_dot", "text": "My details: sarah.connor[at]riverside-plant[dot]com", "pii": ["sarah.connor[at]riverside-plant[dot]com"]}
+{"id": "pii-078", "kind": "multi", "variant": "email+phone", "text": "Operator maria_garcia@mail.co.uk, phone (225) 606-1792, reported a deviation on LOT-00099.", "pii": ["maria_garcia@mail.co.uk", "(225) 606-1792"]}
+{"id": "pii-079", "kind": "none", "variant": "negative", "text": "Gate 3 needs 88% coverage across 782 tests.", "pii": []}
+{"id": "pii-080", "kind": "phone", "variant": "zero_width", "text": "my number is 53​​6-950-5​997, which lot is ready?", "pii": ["53​​6-950-5​997"]}
+{"id": "pii-081", "kind": "none", "variant": "negative", "text": "Verify LOT-57545 against protocol PROT-SAF-11.", "pii": []}
+{"id": "pii-082", "kind": "none", "variant": "negative", "text": "There are 8060 units and 9 samples in room 18.", "pii": []}
+{"id": "pii-083", "kind": "ssn", "variant": "dashes", "text": "Employee SSN: 733-45-6100", "pii": ["733-45-6100"]}
+{"id": "pii-084", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.63.254 on port 6826.", "pii": []}
+{"id": "pii-085", "kind": "email", "variant": "standard", "text": "Please contact tom@plant-two.net about LOT-00044.", "pii": ["tom@plant-two.net"]}
+{"id": "pii-086", "kind": "email", "variant": "underscore", "text": "jane.roe_at_acme_dot_io is the reviewer for this request.", "pii": ["jane.roe_at_acme_dot_io"]}
+{"id": "pii-087", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@acme.io, phone (616) 751-6324, reported a deviation on LOT-00099.", "pii": ["li.wei@acme.io", "(616) 751-6324"]}
+{"id": "pii-088", "kind": "none", "variant": "negative", "text": "Store between 7 and 19 degrees Celsius for 32 months.", "pii": []}
+{"id": "pii-089", "kind": "none", "variant": "negative", "text": "Page 24 of 70; table 5, row 11.", "pii": []}
+{"id": "pii-090", "kind": "none", "variant": "negative", "text": "PO number 5856287461 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-091", "kind": "none", "variant": "negative", "text": "Pack dimensions are 64 x 29 x 85 cm, weight 11.5 kg.", "pii": []}
+{"id": "pii-092", "kind": "multi", "variant": "email+phone", "text": "Operator dev.ops@plant-two.net, phone (925) 121-9184, reported a deviation on LOT-00099.", "pii": ["dev.ops@plant-two.net", "(925) 121-9184"]}
+{"id": "pii-093", "kind": "none", "variant": "negative", "text": "Cycle count 74659 finished in 150 seconds with 7 faults.", "pii": []}
+{"id": "pii-094", "kind": "none", "variant": "negative", "text": "Verify LOT-93238 against protocol PROT-SAF-6.", "pii": []}
+{"id": "pii-095", "kind": "card", "variant": "dots", "text": "billing card: 5128.1531.6093.5543", "pii": ["5128.1531.6093.5543"]}
+{"id": "pii-096", "kind": "none", "variant": "negative", "text": "Hash 60ebead0641b was logged for the build.", "pii": []}
+{"id": "pii-097", "kind": "phone", "variant": "bare", "text": "Text 2383358823 when LOT-00044 ships", "pii": ["2383358823"]}
+{"id": "pii-098", "kind": "email", "variant": "bracket_at_dot", "text": "Reach me at dev.ops[at]acme[dot]io after the shift.", "pii": ["dev.ops[at]acme[dot]io"]}
+{"id": "pii-099", "kind": "phone", "variant": "dashes", "text": "my number is 619-008-6742, which lot is ready?", "pii": ["619-008-6742"]}
+{"id": "pii-100", "kind": "phone", "variant": "intl_uk", "text": "Escalate to +44 20 7946 0958 after hours.", "pii": ["+44 20 7946 0958"]}
+{"id": "pii-101", "kind": "phone", "variant": "dots", "text": "Text 456.395.8233 when LOT-00044 ships", "pii": ["456.395.8233"]}
+{"id": "pii-102", "kind": "multi", "variant": "email+phone", "text": "Operator m.silva@gmail.com, phone (678) 359-8566, reported a deviation on LOT-00099.", "pii": ["m.silva@gmail.com", "(678) 359-8566"]}
+{"id": "pii-103", "kind": "phone", "variant": "parens", "text": "Call (397) 480-6940 to confirm the lot.", "pii": ["(397) 480-6940"]}
+{"id": "pii-104", "kind": "phone", "variant": "plus1_dashes", "text": "Operator phone: +1-638-382-5390", "pii": ["+1-638-382-5390"]}
+{"id": "pii-105", "kind": "phone", "variant": "parens", "text": "my number is (680) 658-0247, which lot is ready?", "pii": ["(680) 658-0247"]}
+{"id": "pii-106", "kind": "email", "variant": "paren_at_dot", "text": "Owner: dev.ops (at) plant-two (dot) net", "pii": ["dev.ops (at) plant-two (dot) net"]}
+{"id": "pii-107", "kind": "phone", "variant": "dashes", "text": "Operator phone: 522-690-5061", "pii": ["522-690-5061"]}
+{"id": "pii-108", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-11-27 at 09:37:00.", "pii": []}
+{"id": "pii-109", "kind": "card", "variant": "spaces", "text": "Visa 5322 5004 2931 9949 exp 11/28", "pii": ["5322 5004 2931 9949"]}
+{"id": "pii-110", "kind": "phone", "variant": "dots", "text": "Call 331.140.2099 to confirm the lot.", "pii": ["331.140.2099"]}
+{"id": "pii-111", "kind": "phone", "variant": "parens", "text": "my number is (231) 088-0221, which lot is ready?", "pii": ["(231) 088-0221"]}
+{"id": "pii-112", "kind": "email", "variant": "standard", "text": "cc r.tanaka@example.com on the deviation", "pii": ["r.tanaka@example.com"]}
+{"id": "pii-113", "kind": "phone", "variant": "dashes", "text": "Text 837-791-8312 when LOT-00044 ships", "pii": ["837-791-8312"]}
+{"id": "pii-114", "kind": "card", "variant": "spaces", "text": "card 5589 4775 1608 9859 was charged for the sample kit", "pii": ["5589 4775 1608 9859"]}
+{"id": "pii-115", "kind": "phone", "variant": "spelled_dashed", "text": "Operator phone: nine zero eight - zero one zero - six three five five", "pii": ["nine zero eight - zero one zero - six three five five"]}
+{"id": "pii-116", "kind": "phone", "variant": "spaced_digits", "text": "my number is 5 8 9 5 1 9 2 8 7 9, which lot is ready?", "pii": ["5 8 9 5 1 9 2 8 7 9"]}
+{"id": "pii-117", "kind": "card", "variant": "dashes", "text": "pay with 5120-0943-0621-3957", "pii": ["5120-0943-0621-3957"]}
+{"id": "pii-118", "kind": "none", "variant": "negative", "text": "Pack dimensions are 66 x 72 x 32 cm, weight 24.8 kg.", "pii": []}
+{"id": "pii-119", "kind": "none", "variant": "negative", "text": "The CAPA must close within 30 days.", "pii": []}
+{"id": "pii-120", "kind": "none", "variant": "negative", "text": "Page 20 of 59; table 3, row 27.", "pii": []}
+{"id": "pii-121", "kind": "ssn", "variant": "dashes", "text": "my social security number is 327-56-6405", "pii": ["327-56-6405"]}
+{"id": "pii-122", "kind": "phone", "variant": "parens", "text": "Operator phone: (353) 991-9572", "pii": ["(353) 991-9572"]}
+{"id": "pii-123", "kind": "card", "variant": "dashes", "text": "billing card: 4612-4084-3225-9486", "pii": ["4612-4084-3225-9486"]}
+{"id": "pii-124", "kind": "email", "variant": "standard", "text": "Reach me at dev.ops@riverside-plant.com after the shift.", "pii": ["dev.ops@riverside-plant.com"]}
+{"id": "pii-125", "kind": "phone", "variant": "dashes", "text": "reach the night shift on 283-413-9856", "pii": ["283-413-9856"]}
+{"id": "pii-126", "kind": "email", "variant": "upper_words", "text": "Reach me at QA.LEAD AT CORP DOT EXAMPLE DOT ORG after the shift.", "pii": ["QA.LEAD AT CORP DOT EXAMPLE DOT ORG"]}
+{"id": "pii-127", "kind": "phone", "variant": "dots", "text": "406.390.4477 - ask for the QA lead", "pii": ["406.390.4477"]}
+{"id": "pii-128", "kind": "phone", "variant": "parens", "text": "Call (975) 544-2281 to confirm the lot.", "pii": ["(975) 544-2281"]}
+{"id": "pii-129", "kind": "phone", "variant": "plus1_dashes", "text": "+1-944-681-1417 - ask for the QA lead", "pii": ["+1-944-681-1417"]}
+{"id": "pii-130", "kind": "phone", "variant": "spaces", "text": "reach the night shift on 279 762 8315", "pii": ["279 762 8315"]}
+{"id": "pii-131", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-773?", "pii": []}
+{"id": "pii-132", "kind": "none", "variant": "negative", "text": "There are 1413 units and 57 samples in room 11.", "pii": []}
+{"id": "pii-133", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.55.64 on port 4611.", "pii": []}
+{"id": "pii-134", "kind": "ssn", "variant": "dashes", "text": "ssn 703-20-1951 was typed in by mistake", "pii": ["703-20-1951"]}
+{"id": "pii-135", "kind": "card", "variant": "dashes", "text": "my credit card number is 5240-0201-3592-3032", "pii": ["5240-0201-3592-3032"]}
+{"id": "pii-136", "kind": "phone", "variant": "dots", "text": "reach the night shift on 454.632.5767", "pii": ["454.632.5767"]}
+{"id": "pii-137", "kind": "none", "variant": "negative", "text": "Invoice total $2,970.35 due in 40 days.", "pii": []}
+{"id": "pii-138", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-993?", "pii": []}
+{"id": "pii-139", "kind": "ssn", "variant": "spaced_digits", "text": "Please verify 7 7 3 5 6 0 8 7 9 (SSN) against the record", "pii": ["7 7 3 5 6 0 8 7 9"]}
+{"id": "pii-140", "kind": "email", "variant": "standard", "text": "Reach me at qa.lead@plant-two.net after the shift.", "pii": ["qa.lead@plant-two.net"]}
+{"id": "pii-141", "kind": "phone", "variant": "plus1_dashes", "text": "+1-334-357-4796 - ask for the QA lead", "pii": ["+1-334-357-4796"]}
+{"id": "pii-142", "kind": "phone", "variant": "spelled", "text": "nine nine one six eight two two zero one three - ask for the QA lead", "pii": ["nine nine one six eight two two zero one three"]}
+{"id": "pii-143", "kind": "card", "variant": "amex", "text": "pay with 3749 281610 41686", "pii": ["3749 281610 41686"]}
+{"id": "pii-144", "kind": "email", "variant": "words_at_dot", "text": "Owner: r dot tanaka at gmail dot com", "pii": ["r dot tanaka at gmail dot com"]}
+{"id": "pii-145", "kind": "phone", "variant": "dashes", "text": "Call 751-509-1857 to confirm the lot.", "pii": ["751-509-1857"]}
+{"id": "pii-146", "kind": "none", "variant": "negative", "text": "Both LOT-24703 and LOT-90378 map to SKU-703.", "pii": []}
+{"id": "pii-147", "kind": "phone", "variant": "spaced_digits", "text": "my number is 6 9 3 4 8 3 4 7 2 1, which lot is ready?", "pii": ["6 9 3 4 8 3 4 7 2 1"]}
+{"id": "pii-148", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-579?", "pii": []}
+{"id": "pii-149", "kind": "none", "variant": "negative", "text": "Revision 7 of document SOP-QA-0438 applies.", "pii": []}
+{"id": "pii-150", "kind": "email", "variant": "bracket_at_dot", "text": "My details: maria_garcia[at]example[dot]com", "pii": ["maria_garcia[at]example[dot]com"]}
+{"id": "pii-151", "kind": "ssn", "variant": "spaces", "text": "ssn 129 77 5226 was typed in by mistake", "pii": ["129 77 5226"]}
+{"id": "pii-152", "kind": "email", "variant": "brace_at_dot", "text": "Reach me at tom{at}example{dot}com after the shift.", "pii": ["tom{at}example{dot}com"]}
+{"id": "pii-153", "kind": "none", "variant": "negative", "text": "Hash 6675668875c7 was logged for the build.", "pii": []}
+{"id": "pii-154", "kind": "phone", "variant": "intl_de", "text": "+49 30 12345678 - ask for the QA lead", "pii": ["+49 30 12345678"]}
+{"id": "pii-155", "kind": "none", "variant": "negative", "text": "Both LOT-54276 and LOT-05764 map to SKU-991.", "pii": []}
+{"id": "pii-156", "kind": "none", "variant": "negative", "text": "Gate 16 needs 49% coverage across 801 tests.", "pii": []}
+{"id": "pii-157", "kind": "email", "variant": "standard", "text": "My details: r.tanaka@example.com", "pii": ["r.tanaka@example.com"]}
+{"id": "pii-158", "kind": "none", "variant": "negative", "text": "Cycle count 19658 finished in 93 seconds with 3 faults.", "pii": []}
+{"id": "pii-159", "kind": "card", "variant": "spaces", "text": "Visa 5168 8768 5489 2742 exp 11/28", "pii": ["5168 8768 5489 2742"]}
+{"id": "pii-160", "kind": "none", "variant": "negative", "text": "Both LOT-96621 and LOT-42619 map to SKU-770.", "pii": []}
+{"id": "pii-161", "kind": "phone", "variant": "dashes", "text": "Text 597-298-7884 when LOT-00044 ships", "pii": ["597-298-7884"]}
+{"id": "pii-162", "kind": "card", "variant": "bare", "text": "my credit card number is 5549659873749758", "pii": ["5549659873749758"]}
+{"id": "pii-163", "kind": "none", "variant": "negative", "text": "We are on version 7.18.1 of the SOP.", "pii": []}
+{"id": "pii-164", "kind": "phone", "variant": "spaced_digits", "text": "my number is 4 1 6 2 5 2 9 8 1 0, which lot is ready?", "pii": ["4 1 6 2 5 2 9 8 1 0"]}
+{"id": "pii-165", "kind": "ssn", "variant": "spaced_digits", "text": "Please verify 5 0 0 6 9 2 0 9 9 (SSN) against the record", "pii": ["5 0 0 6 9 2 0 9 9"]}
+{"id": "pii-166", "kind": "none", "variant": "negative", "text": "Invoice total $2,782.69 due in 21 days.", "pii": []}
+{"id": "pii-167", "kind": "card", "variant": "zero_width", "text": "Visa 5​151 7223​ 0​800 9856 exp 11/28", "pii": ["5​151 7223​ 0​800 9856"]}
+{"id": "pii-168", "kind": "ssn", "variant": "fullwidth", "text": "ssn ８９６-８５-１４２１ was typed in by mistake", "pii": ["８９６-８５-１４２１"]}
+{"id": "pii-169", "kind": "card", "variant": "bare", "text": "billing card: 5102843553623439", "pii": ["5102843553623439"]}
+{"id": "pii-170", "kind": "email", "variant": "standard", "text": "Reach me at qa.lead@plant-two.net after the shift.", "pii": ["qa.lead@plant-two.net"]}
+{"id": "pii-171", "kind": "card", "variant": "spelled", "text": "pay with four one seven zero three seven two nine two four seven three two zero nine one", "pii": ["four one seven zero three seven two nine two four seven three two zero nine one"]}
+{"id": "pii-172", "kind": "ssn", "variant": "dashes", "text": "Employee SSN: 427-42-9232", "pii": ["427-42-9232"]}
+{"id": "pii-173", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-05-06 at 17:33:00.", "pii": []}
+{"id": "pii-174", "kind": "ssn", "variant": "spaces", "text": "Employee SSN: 745 70 1503", "pii": ["745 70 1503"]}
+{"id": "pii-175", "kind": "none", "variant": "negative", "text": "Both LOT-05942 and LOT-65588 map to SKU-020.", "pii": []}
+{"id": "pii-176", "kind": "phone", "variant": "zero_width", "text": "Operator phone: 928​-495​-937​2", "pii": ["928​-495​-937​2"]}
+{"id": "pii-177", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-06-13 at 20:00:00.", "pii": []}
+{"id": "pii-178", "kind": "phone", "variant": "spelled", "text": "Escalate to nine six five three eight one one four nine nine after hours.", "pii": ["nine six five three eight one one four nine nine"]}
+{"id": "pii-179", "kind": "none", "variant": "negative", "text": "Verify LOT-15627 against protocol PROT-SAF-6.", "pii": []}
+{"id": "pii-180", "kind": "phone", "variant": "spelled", "text": "Escalate to nine six nine one five three eight zero zero zero after hours.", "pii": ["nine six nine one five three eight zero zero zero"]}
+{"id": "pii-181", "kind": "email", "variant": "standard", "text": "jane.roe@example.com is the reviewer for this request.", "pii": ["jane.roe@example.com"]}
+{"id": "pii-182", "kind": "card", "variant": "spaced_digits", "text": "card 5 1 9 6 4 2 6 7 4 6 0 4 4 4 4 5 was charged for the sample kit", "pii": ["5 1 9 6 4 2 6 7 4 6 0 4 4 4 4 5"]}
+{"id": "pii-183", "kind": "none", "variant": "negative", "text": "See section 3.4.8 and table 13 for limits.", "pii": []}
+{"id": "pii-184", "kind": "email", "variant": "fullwidth", "text": "Please contact ｐ．ｒｏｓｓｉ＠ｒｉｖｅｒｓｉｄｅ－ｐｌａｎｔ．ｃｏｍ about LOT-00044.", "pii": ["ｐ．ｒｏｓｓｉ＠ｒｉｖｅｒｓｉｄｅ－ｐｌａｎｔ．ｃｏｍ"]}
+{"id": "pii-185", "kind": "email", "variant": "bracket_at_dot", "text": "cc tom[at]riverside-plant[dot]com on the deviation", "pii": ["tom[at]riverside-plant[dot]com"]}
+{"id": "pii-186", "kind": "card", "variant": "bare", "text": "billing card: 5204087069758571", "pii": ["5204087069758571"]}
+{"id": "pii-187", "kind": "email", "variant": "standard", "text": "cc r.tanaka@outlook.com on the deviation", "pii": ["r.tanaka@outlook.com"]}
+{"id": "pii-188", "kind": "phone", "variant": "arabic_indic", "text": "reach the night shift on ٧٤٩ ٨٥٨ ٢٣٠٥", "pii": ["٧٤٩ ٨٥٨ ٢٣٠٥"]}
+{"id": "pii-189", "kind": "none", "variant": "negative", "text": "Lots 76, 21, 9, 2 and 17 are on hold.", "pii": []}
+{"id": "pii-190", "kind": "card", "variant": "spaces", "text": "billing card: 5321 0790 0870 6256", "pii": ["5321 0790 0870 6256"]}
+{"id": "pii-191", "kind": "card", "variant": "spaces", "text": "my credit card number is 4328 5331 9842 6972", "pii": ["4328 5331 9842 6972"]}
+{"id": "pii-192", "kind": "email", "variant": "spaced_at", "text": "Owner: sarah.connor @ acme.io", "pii": ["sarah.connor @ acme.io"]}
+{"id": "pii-193", "kind": "none", "variant": "negative", "text": "Page 13 of 79; table 4, row 29.", "pii": []}
+{"id": "pii-194", "kind": "none", "variant": "negative", "text": "Order 5 pallets of SKU-042 and 12 of SKU-099.", "pii": []}
+{"id": "pii-195", "kind": "none", "variant": "negative", "text": "See section 7.6.2 and table 1 for limits.", "pii": []}
+{"id": "pii-196", "kind": "email", "variant": "upper_words", "text": "My details: R.TANAKA AT RIVERSIDE-PLANT DOT COM", "pii": ["R.TANAKA AT RIVERSIDE-PLANT DOT COM"]}
+{"id": "pii-197", "kind": "card", "variant": "amex", "text": "billing card: 3403 525212 02568", "pii": ["3403 525212 02568"]}
+{"id": "pii-198", "kind": "phone", "variant": "spelled", "text": "Text two nine four one four seven two eight nine four when LOT-00044 ships", "pii": ["two nine four one four seven two eight nine four"]}
+{"id": "pii-199", "kind": "card", "variant": "spelled", "text": "pay with five one zero four six eight one seven zero five nine zero two eight one six", "pii": ["five one zero four six eight one seven zero five nine zero two eight one six"]}
+{"id": "pii-200", "kind": "email", "variant": "bracket_at_dot", "text": "Send the report to sarah.connor[at]plant-two[dot]net.", "pii": ["sarah.connor[at]plant-two[dot]net"]}
+{"id": "pii-201", "kind": "none", "variant": "negative", "text": "Gate 3 needs 34% coverage across 726 tests.", "pii": []}
+{"id": "pii-202", "kind": "ssn", "variant": "dashes", "text": "Please verify 195-71-0614 (SSN) against the record", "pii": ["195-71-0614"]}
+{"id": "pii-203", "kind": "multi", "variant": "email+phone", "text": "Operator hans.mueller@acme.io, phone (987) 928-8942, reported a deviation on LOT-00099.", "pii": ["hans.mueller@acme.io", "(987) 928-8942"]}
+{"id": "pii-204", "kind": "card", "variant": "spaces", "text": "my credit card number is 5163 9792 1509 9646", "pii": ["5163 9792 1509 9646"]}
+{"id": "pii-205", "kind": "none", "variant": "negative", "text": "Revision 27 of document SOP-QA-0005 applies.", "pii": []}
+{"id": "pii-206", "kind": "phone", "variant": "dashes", "text": "Text 995-486-0976 when LOT-00044 ships", "pii": ["995-486-0976"]}
+{"id": "pii-207", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@example.com, phone (925) 949-0620, reported a deviation on LOT-00099.", "pii": ["li.wei@example.com", "(925) 949-0620"]}
+{"id": "pii-208", "kind": "phone", "variant": "parens", "text": "Operator phone: (421) 281-8812", "pii": ["(421) 281-8812"]}
+{"id": "pii-209", "kind": "none", "variant": "negative", "text": "Invoice total $3,845.84 due in 31 days.", "pii": []}
+{"id": "pii-210", "kind": "ssn", "variant": "dashes", "text": "my social security number is 105-16-7759", "pii": ["105-16-7759"]}
+{"id": "pii-211", "kind": "none", "variant": "negative", "text": "Revision 2 of document SOP-QA-0928 applies.", "pii": []}
+{"id": "pii-212", "kind": "none", "variant": "negative", "text": "PO number 7933661276 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-213", "kind": "none", "variant": "negative", "text": "Pack dimensions are 33 x 86 x 78 cm, weight 6.7 kg.", "pii": []}
+{"id": "pii-214", "kind": "email", "variant": "standard", "text": "Forward LOT-88392 status to m.silva@plant-two.net please", "pii": ["m.silva@plant-two.net"]}
+{"id": "pii-215", "kind": "email", "variant": "standard", "text": "Reach me at tom@outlook.com after the shift.", "pii": ["tom@outlook.com"]}
+{"id": "pii-216", "kind": "ssn", "variant": "arabic_indic", "text": "badge ssn ٧٥٣-٨١-١٣٨٣ for the operator", "pii": ["٧٥٣-٨١-١٣٨٣"]}
+{"id": "pii-217", "kind": "card", "variant": "dots", "text": "billing card: 5253.2805.6217.9409", "pii": ["5253.2805.6217.9409"]}
+{"id": "pii-218", "kind": "none", "variant": "negative", "text": "Page 26 of 36; table 2, row 55.", "pii": []}
+{"id": "pii-219", "kind": "phone", "variant": "dots", "text": "Text 721.826.8307 when LOT-00044 ships", "pii": ["721.826.8307"]}
+{"id": "pii-220", "kind": "email", "variant": "bracket_at_dot", "text": "Reach me at tom[at]example[dot]com after the shift.", "pii": ["tom[at]example[dot]com"]}
+{"id": "pii-221", "kind": "phone", "variant": "devanagari", "text": "Operator phone: ३५६-४५८-४३३५", "pii": ["३५६-४५८-४३३५"]}
+{"id": "pii-222", "kind": "ssn", "variant": "dashes", "text": "Employee SSN: 124-19-5775", "pii": ["124-19-5775"]}
+{"id": "pii-223", "kind": "multi", "variant": "email+phone", "text": "Operator jane.roe@example.com, phone (771) 424-4091, reported a deviation on LOT-00099.", "pii": ["jane.roe@example.com", "(771) 424-4091"]}
+{"id": "pii-224", "kind": "none", "variant": "negative", "text": "Pack dimensions are 65 x 63 x 72 cm, weight 31.8 kg.", "pii": []}
+{"id": "pii-225", "kind": "email", "variant": "standard", "text": "cc qa.lead@acme.io on the deviation", "pii": ["qa.lead@acme.io"]}
+{"id": "pii-226", "kind": "phone", "variant": "dashes", "text": "Text 357-599-2101 when LOT-00044 ships", "pii": ["357-599-2101"]}
+{"id": "pii-227", "kind": "card", "variant": "spaces", "text": "Visa 5356 3765 5722 2604 exp 11/28", "pii": ["5356 3765 5722 2604"]}
+{"id": "pii-228", "kind": "none", "variant": "negative", "text": "Cycle count 46953 finished in 212 seconds with 8 faults.", "pii": []}
+{"id": "pii-229", "kind": "none", "variant": "negative", "text": "Cycle count 38427 finished in 328 seconds with 1 faults.", "pii": []}
+{"id": "pii-230", "kind": "none", "variant": "negative", "text": "Buffer pH 7.5 at 16.4 C, lot LOT-31053.", "pii": []}
+{"id": "pii-231", "kind": "ssn", "variant": "zero_width", "text": "my social security number is 122-23​-5​26​1", "pii": ["122-23​-5​26​1"]}
+{"id": "pii-232", "kind": "none", "variant": "negative", "text": "We are on version 5.16.13 of the SOP.", "pii": []}
+{"id": "pii-233", "kind": "ssn", "variant": "bare_ctx", "text": "Please verify 958622392 (SSN) against the record", "pii": ["958622392"]}
+{"id": "pii-234", "kind": "phone", "variant": "parens", "text": "Escalate to (814) 857-5088 after hours.", "pii": ["(814) 857-5088"]}
+{"id": "pii-235", "kind": "none", "variant": "negative", "text": "Verify LOT-08546 against protocol PROT-SAF-6.", "pii": []}
+{"id": "pii-236", "kind": "phone", "variant": "parens", "text": "(804) 772-7504 - ask for the QA lead", "pii": ["(804) 772-7504"]}
+{"id": "pii-237", "kind": "phone", "variant": "parens", "text": "(405) 530-9682 - ask for the QA lead", "pii": ["(405) 530-9682"]}
+{"id": "pii-238", "kind": "none", "variant": "negative", "text": "Cycle count 34842 finished in 279 seconds with 2 faults.", "pii": []}
+{"id": "pii-239", "kind": "ssn", "variant": "fullwidth", "text": "my social security number is ４７１-３７-８２８１", "pii": ["４７１-３７-８２８１"]}
+{"id": "pii-240", "kind": "phone", "variant": "zero_width", "text": "reach the night shift on 8​​24-384-07​54", "pii": ["8​​24-384-07​54"]}
+{"id": "pii-241", "kind": "email", "variant": "standard", "text": "olu.adeyemi@riverside-plant.com is the reviewer for this request.", "pii": ["olu.adeyemi@riverside-plant.com"]}
+{"id": "pii-242", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-03-19 at 11:45:00.", "pii": []}
+{"id": "pii-243", "kind": "card", "variant": "spaced_digits", "text": "card 5 3 6 1 3 7 0 4 6 2 4 0 5 7 3 8 was charged for the sample kit", "pii": ["5 3 6 1 3 7 0 4 6 2 4 0 5 7 3 8"]}
+{"id": "pii-244", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-07-10 at 00:07:00.", "pii": []}
+{"id": "pii-245", "kind": "email", "variant": "standard", "text": "cc hans.mueller@example.com on the deviation", "pii": ["hans.mueller@example.com"]}
+{"id": "pii-246", "kind": "multi", "variant": "email+phone", "text": "Operator k.nowak@example.com, phone (905) 216-8893, reported a deviation on LOT-00099.", "pii": ["k.nowak@example.com", "(905) 216-8893"]}
+{"id": "pii-247", "kind": "none", "variant": "negative", "text": "Lots 42, 29, 10, 80 and 24 are on hold.", "pii": []}
+{"id": "pii-248", "kind": "none", "variant": "negative", "text": "Store between 1 and 9 degrees Celsius for 11 months.", "pii": []}
+{"id": "pii-249", "kind": "ssn", "variant": "dashes", "text": "ssn 478-39-1858 was typed in by mistake", "pii": ["478-39-1858"]}
+{"id": "pii-250", "kind": "none", "variant": "negative", "text": "Invoice total $8,326.69 due in 39 days.", "pii": []}
+{"id": "pii-251", "kind": "ssn", "variant": "bare_ctx", "text": "Please verify 732105953 (SSN) against the record", "pii": ["732105953"]}
+{"id": "pii-252", "kind": "card", "variant": "fullwidth", "text": "pay with ４５４７ ８３７９ ４７３６ ２５４４", "pii": ["４５４７ ８３７９ ４７３６ ２５４４"]}
+{"id": "pii-253", "kind": "email", "variant": "paren_at_dot", "text": "My details: p.rossi (at) mail (dot) co (dot) uk", "pii": ["p.rossi (at) mail (dot) co (dot) uk"]}
+{"id": "pii-254", "kind": "phone", "variant": "fullwidth", "text": "Text ８１４-６７２-８１７９ when LOT-00044 ships", "pii": ["８１４-６７２-８１７９"]}
+{"id": "pii-255", "kind": "none", "variant": "negative", "text": "We are on version 8.8.17 of the SOP.", "pii": []}
+{"id": "pii-256", "kind": "email", "variant": "zero_width", "text": "Please contact qa.lead@r​i​verside-plant.​com about LOT-00044.", "pii": ["qa.lead@r​i​verside-plant.​com"]}
+{"id": "pii-257", "kind": "phone", "variant": "spelled", "text": "Call nine zero zero two eight nine six six five eight to confirm the lot.", "pii": ["nine zero zero two eight nine six six five eight"]}
+{"id": "pii-258", "kind": "phone", "variant": "parens", "text": "(223) 312-5175 - ask for the QA lead", "pii": ["(223) 312-5175"]}
+{"id": "pii-259", "kind": "ssn", "variant": "dashes", "text": "ssn 465-07-5849 was typed in by mistake", "pii": ["465-07-5849"]}
+{"id": "pii-260", "kind": "none", "variant": "negative", "text": "Gate 17 needs 95% coverage across 877 tests.", "pii": []}
+{"id": "pii-261", "kind": "card", "variant": "spaces", "text": "billing card: 5198 9595 0848 0728", "pii": ["5198 9595 0848 0728"]}
+{"id": "pii-262", "kind": "phone", "variant": "bare", "text": "Text 9600361538 when LOT-00044 ships", "pii": ["9600361538"]}
+{"id": "pii-263", "kind": "none", "variant": "negative", "text": "Cycle count 36936 finished in 356 seconds with 8 faults.", "pii": []}
+{"id": "pii-264", "kind": "multi", "variant": "email+phone", "text": "Operator p.rossi@acme.io, phone (336) 562-9698, reported a deviation on LOT-00099.", "pii": ["p.rossi@acme.io", "(336) 562-9698"]}
+{"id": "pii-265", "kind": "email", "variant": "standard", "text": "My details: maria_garcia@gmail.com", "pii": ["maria_garcia@gmail.com"]}
+{"id": "pii-266", "kind": "card", "variant": "zero_width", "text": "card 4447 ​2977​ 9808 ​6588 was charged for the sample kit", "pii": ["4447 ​2977​ 9808 ​6588"]}
+{"id": "pii-267", "kind": "ssn", "variant": "arabic_indic", "text": "Employee SSN: ٥٥٤-٩٨-٤٩٩٧", "pii": ["٥٥٤-٩٨-٤٩٩٧"]}
+{"id": "pii-268", "kind": "card", "variant": "spaces", "text": "my credit card number is 5228 9870 9380 9153", "pii": ["5228 9870 9380 9153"]}
+{"id": "pii-269", "kind": "phone", "variant": "plus1_spaces", "text": "my number is +1 242 195 8735, which lot is ready?", "pii": ["+1 242 195 8735"]}
+{"id": "pii-270", "kind": "none", "variant": "negative", "text": "Hash 0b5c6dbf8d64 was logged for the build.", "pii": []}
+{"id": "pii-271", "kind": "ssn", "variant": "dots", "text": "my social security number is 941.92.9249", "pii": ["941.92.9249"]}
+{"id": "pii-272", "kind": "email", "variant": "underscore", "text": "My details: jane.roe_at_acme_dot_io", "pii": ["jane.roe_at_acme_dot_io"]}
+{"id": "pii-273", "kind": "ssn", "variant": "dashes", "text": "Please verify 876-86-0543 (SSN) against the record", "pii": ["876-86-0543"]}
+{"id": "pii-274", "kind": "card", "variant": "bare", "text": "pay with 4217304090736775", "pii": ["4217304090736775"]}
+{"id": "pii-275", "kind": "phone", "variant": "dots", "text": "Operator phone: 389.063.0613", "pii": ["389.063.0613"]}
+{"id": "pii-276", "kind": "card", "variant": "dashes", "text": "pay with 5548-6691-1614-7877", "pii": ["5548-6691-1614-7877"]}
+{"id": "pii-277", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.173.237 on port 6805.", "pii": []}
+{"id": "pii-278", "kind": "card", "variant": "dashes", "text": "my credit card number is 5247-4668-8021-7760", "pii": ["5247-4668-8021-7760"]}
+{"id": "pii-279", "kind": "phone", "variant": "dashes", "text": "Text 924-739-2847 when LOT-00044 ships", "pii": ["924-739-2847"]}
+{"id": "pii-280", "kind": "none", "variant": "negative", "text": "Store between 5 and 10 degrees Celsius for 44 months.", "pii": []}
+{"id": "pii-281", "kind": "phone", "variant": "arabic_indic", "text": "Operator phone: ٨٠٧ ٦٠٦ ٦٤٥٠", "pii": ["٨٠٧ ٦٠٦ ٦٤٥٠"]}
+{"id": "pii-282", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-10-26 at 11:06:00.", "pii": []}
+{"id": "pii-283", "kind": "none", "variant": "negative", "text": "Hash c7431abc59d3 was logged for the build.", "pii": []}
+{"id": "pii-284", "kind": "email", "variant": "standard", "text": "Please contact li.wei@example.com about LOT-00044.", "pii": ["li.wei@example.com"]}
+{"id": "pii-285", "kind": "none", "variant": "negative", "text": "We are on version 3.1.2 of the SOP.", "pii": []}
+{"id": "pii-286", "kind": "none", "variant": "negative", "text": "PO number 8265679922 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-287", "kind": "ssn", "variant": "dashes", "text": "Please verify 993-56-5784 (SSN) against the record", "pii": ["993-56-5784"]}
+{"id": "pii-288", "kind": "phone", "variant": "dashes", "text": "Call 348-393-9281 to confirm the lot.", "pii": ["348-393-9281"]}
+{"id": "pii-289", "kind": "ssn", "variant": "dashes", "text": "badge ssn 484-20-4729 for the operator", "pii": ["484-20-4729"]}
+{"id": "pii-290", "kind": "phone", "variant": "fullwidth", "text": "Escalate to ６３７-８３２-２９８０ after hours.", "pii": ["６３７-８３２-２９８０"]}
+{"id": "pii-291", "kind": "none", "variant": "negative", "text": "PO number 5521659691 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-292", "kind": "none", "variant": "negative", "text": "call me at noon", "pii": []}
+{"id": "pii-293", "kind": "none", "variant": "negative", "text": "Both LOT-61462 and LOT-37550 map to SKU-150.", "pii": []}
+{"id": "pii-294", "kind": "card", "variant": "dashes", "text": "card 4779-5068-2531-2728 was charged for the sample kit", "pii": ["4779-5068-2531-2728"]}
+{"id": "pii-295", "kind": "none", "variant": "negative", "text": "Gate 1 needs 63% coverage across 585 tests.", "pii": []}
+{"id": "pii-296", "kind": "phone", "variant": "fullwidth", "text": "my number is ６０２-０７６-０７１８, which lot is ready?", "pii": ["６０２-０７６-０７１８"]}
+{"id": "pii-297", "kind": "phone", "variant": "spelled_dashed", "text": "nine zero seven - one four two - two nine five four - ask for the QA lead", "pii": ["nine zero seven - one four two - two nine five four"]}
+{"id": "pii-298", "kind": "email", "variant": "standard", "text": "Owner: maria_garcia@outlook.com", "pii": ["maria_garcia@outlook.com"]}
+{"id": "pii-299", "kind": "ssn", "variant": "spelled", "text": "Employee SSN: three three zero seven four three three two three", "pii": ["three three zero seven four three three two three"]}
+{"id": "pii-300", "kind": "email", "variant": "standard", "text": "Send the report to p.rossi@outlook.com.", "pii": ["p.rossi@outlook.com"]}
+{"id": "pii-301", "kind": "phone", "variant": "dots", "text": "Operator phone: 732.021.9512", "pii": ["732.021.9512"]}
+{"id": "pii-302", "kind": "phone", "variant": "dashes", "text": "Call 655-381-0962 to confirm the lot.", "pii": ["655-381-0962"]}
+{"id": "pii-303", "kind": "none", "variant": "negative", "text": "Verify LOT-90357 against protocol PROT-SAF-5.", "pii": []}
+{"id": "pii-304", "kind": "email", "variant": "bracket_at_dot", "text": "Owner: r.tanaka[at]riverside-plant[dot]com", "pii": ["r.tanaka[at]riverside-plant[dot]com"]}
+{"id": "pii-305", "kind": "phone", "variant": "bare", "text": "my number is 3921612502, which lot is ready?", "pii": ["3921612502"]}
+{"id": "pii-306", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-09-23 at 15:53:00.", "pii": []}
+{"id": "pii-307", "kind": "ssn", "variant": "dots", "text": "ssn 467.42.6477 was typed in by mistake", "pii": ["467.42.6477"]}
+{"id": "pii-308", "kind": "none", "variant": "negative", "text": "Buffer pH 7.6 at 28.3 C, lot LOT-95596.", "pii": []}
+{"id": "pii-309", "kind": "card", "variant": "bare", "text": "Visa 5565572835565981 exp 11/28", "pii": ["5565572835565981"]}
+{"id": "pii-310", "kind": "email", "variant": "brace_at_dot", "text": "Owner: olu.adeyemi{at}outlook{dot}com", "pii": ["olu.adeyemi{at}outlook{dot}com"]}
+{"id": "pii-311", "kind": "email", "variant": "standard", "text": "cc maria_garcia@acme.io on the deviation", "pii": ["maria_garcia@acme.io"]}
+{"id": "pii-312", "kind": "none", "variant": "negative", "text": "See section 5.7.1 and table 6 for limits.", "pii": []}
+{"id": "pii-313", "kind": "phone", "variant": "spaces", "text": "reach the night shift on 278 355 4327", "pii": ["278 355 4327"]}
+{"id": "pii-314", "kind": "phone", "variant": "dashes", "text": "Call 225-010-2093 to confirm the lot.", "pii": ["225-010-2093"]}
+{"id": "pii-315", "kind": "none", "variant": "negative", "text": "Hash a64590e9c905 was logged for the build.", "pii": []}
+{"id": "pii-316", "kind": "none", "variant": "negative", "text": "We are on version 5.2.14 of the SOP.", "pii": []}
+{"id": "pii-317", "kind": "ssn", "variant": "bare_ctx", "text": "ssn 791911226 was typed in by mistake", "pii": ["791911226"]}
+{"id": "pii-318", "kind": "none", "variant": "negative", "text": "Hash fd24f07e2249 was logged for the build.", "pii": []}
+{"id": "pii-319", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-724?", "pii": []}
+{"id": "pii-320", "kind": "none", "variant": "negative", "text": "Verify LOT-39107 against protocol PROT-SAF-3.", "pii": []}
+{"id": "pii-321", "kind": "none", "variant": "negative", "text": "Chunk rag://chunks/a6c862e3bc23c59ce9082c9562a6c063b1dff719cb2b717e4529348357e0546a was cited.", "pii": []}
+{"id": "pii-322", "kind": "none", "variant": "negative", "text": "Verify LOT-34587 against protocol PROT-SAF-5.", "pii": []}
+{"id": "pii-323", "kind": "ssn", "variant": "dashes", "text": "badge ssn 803-33-6048 for the operator", "pii": ["803-33-6048"]}
+{"id": "pii-324", "kind": "email", "variant": "standard", "text": "Forward LOT-88392 status to jane.roe@gmail.com please", "pii": ["jane.roe@gmail.com"]}
+{"id": "pii-325", "kind": "none", "variant": "negative", "text": "Buffer pH 7.6 at 18.7 C, lot LOT-16625.", "pii": []}
+{"id": "pii-326", "kind": "phone", "variant": "intl_uk", "text": "my number is +44 20 7946 0958, which lot is ready?", "pii": ["+44 20 7946 0958"]}
+{"id": "pii-327", "kind": "none", "variant": "negative", "text": "Both LOT-36714 and LOT-39289 map to SKU-478.", "pii": []}
+{"id": "pii-328", "kind": "email", "variant": "paren_at_dot", "text": "jane.roe (at) corp (dot) example (dot) org is the reviewer for this request.", "pii": ["jane.roe (at) corp (dot) example (dot) org"]}
+{"id": "pii-329", "kind": "ssn", "variant": "dashes", "text": "Please verify 360-77-5238 (SSN) against the record", "pii": ["360-77-5238"]}
+{"id": "pii-330", "kind": "none", "variant": "negative", "text": "Revision 24 of document SOP-QA-0891 applies.", "pii": []}
+{"id": "pii-331", "kind": "phone", "variant": "plus1_spaces", "text": "reach the night shift on +1 966 752 9126", "pii": ["+1 966 752 9126"]}
+{"id": "pii-332", "kind": "phone", "variant": "spelled", "text": "Text five three three six four zero five seven two nine when LOT-00044 ships", "pii": ["five three three six four zero five seven two nine"]}
+{"id": "pii-333", "kind": "ssn", "variant": "spaced_digits", "text": "Please verify 4 3 5 8 8 0 5 6 8 (SSN) against the record", "pii": ["4 3 5 8 8 0 5 6 8"]}
+{"id": "pii-334", "kind": "none", "variant": "negative", "text": "Both LOT-56866 and LOT-65572 map to SKU-322.", "pii": []}
+{"id": "pii-335", "kind": "none", "variant": "negative", "text": "Revision 25 of document SOP-QA-0878 applies.", "pii": []}
+{"id": "pii-336", "kind": "phone", "variant": "plus1_dashes", "text": "my number is +1-261-022-5492, which lot is ready?", "pii": ["+1-261-022-5492"]}
+{"id": "pii-337", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@mail.co.uk, phone (876) 044-0811, reported a deviation on LOT-00099.", "pii": ["li.wei@mail.co.uk", "(876) 044-0811"]}
+{"id": "pii-338", "kind": "ssn", "variant": "spaces", "text": "Employee SSN: 839 83 9859", "pii": ["839 83 9859"]}
+{"id": "pii-339", "kind": "card", "variant": "dashes", "text": "pay with 4484-2574-0300-0113", "pii": ["4484-2574-0300-0113"]}
+{"id": "pii-340", "kind": "ssn", "variant": "spaced_digits", "text": "my social security number is 2 9 4 7 3 1 2 0 5", "pii": ["2 9 4 7 3 1 2 0 5"]}
+{"id": "pii-341", "kind": "ssn", "variant": "bare_ctx", "text": "Employee SSN: 311746518", "pii": ["311746518"]}
+{"id": "pii-342", "kind": "none", "variant": "negative", "text": "Store between 4 and 27 degrees Celsius for 35 months.", "pii": []}
+{"id": "pii-343", "kind": "ssn", "variant": "zero_width", "text": "Employee SSN: 401​​-62-​1350", "pii": ["401​​-62-​1350"]}
+{"id": "pii-344", "kind": "none", "variant": "negative", "text": "meet at home.com tomorrow", "pii": []}
+{"id": "pii-345", "kind": "none", "variant": "negative", "text": "PO number 8727754857 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-346", "kind": "none", "variant": "negative", "text": "There are 660 units and 60 samples in room 9.", "pii": []}
+{"id": "pii-347", "kind": "card", "variant": "dashes", "text": "my credit card number is 5325-3852-2671-3727", "pii": ["5325-3852-2671-3727"]}
+{"id": "pii-348", "kind": "none", "variant": "negative", "text": "Revision 21 of document SOP-QA-0456 applies.", "pii": []}
+{"id": "pii-349", "kind": "none", "variant": "negative", "text": "There are 3477 units and 78 samples in room 11.", "pii": []}
+{"id": "pii-350", "kind": "phone", "variant": "zero_width", "text": "Escalate to 445-345-2​64​​7 after hours.", "pii": ["445-345-2​64​​7"]}
+{"id": "pii-351", "kind": "phone", "variant": "plus1_spaces", "text": "Call +1 577 814 8118 to confirm the lot.", "pii": ["+1 577 814 8118"]}
+{"id": "pii-352", "kind": "none", "variant": "negative", "text": "Verify LOT-77461 against protocol PROT-SAF-2.", "pii": []}
+{"id": "pii-353", "kind": "card", "variant": "bare", "text": "Visa 5362372195834019 exp 11/28", "pii": ["5362372195834019"]}
+{"id": "pii-354", "kind": "card", "variant": "bare", "text": "billing card: 5249771386711481", "pii": ["5249771386711481"]}
+{"id": "pii-355", "kind": "card", "variant": "spaces", "text": "Visa 5186 7891 5055 9295 exp 11/28", "pii": ["5186 7891 5055 9295"]}
+{"id": "pii-356", "kind": "none", "variant": "negative", "text": "Store between 1 and 28 degrees Celsius for 39 months.", "pii": []}
+{"id": "pii-357", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-802?", "pii": []}
+{"id": "pii-358", "kind": "ssn", "variant": "spaces", "text": "Employee SSN: 657 47 0922", "pii": ["657 47 0922"]}
+{"id": "pii-359", "kind": "ssn", "variant": "fullwidth", "text": "Please verify ７４９-２２-６９５３ (SSN) against the record", "pii": ["７４９-２２-６９５３"]}
+{"id": "pii-360", "kind": "none", "variant": "negative", "text": "Page 15 of 56; table 4, row 10.", "pii": []}
+{"id": "pii-361", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.203.113 on port 3985.", "pii": []}
+{"id": "pii-362", "kind": "multi", "variant": "email+phone", "text": "Operator k.nowak@corp.example.org, phone (530) 829-0253, reported a deviation on LOT-00099.", "pii": ["k.nowak@corp.example.org", "(530) 829-0253"]}
+{"id": "pii-363", "kind": "email", "variant": "standard", "text": "Forward LOT-88392 status to olu.adeyemi@gmail.com please", "pii": ["olu.adeyemi@gmail.com"]}
+{"id": "pii-364", "kind": "email", "variant": "bracket_at_dot", "text": "Send the report to a.kumar[at]gmail[dot]com.", "pii": ["a.kumar[at]gmail[dot]com"]}
+{"id": "pii-365", "kind": "email", "variant": "standard", "text": "Please contact jane.roe@riverside-plant.com about LOT-00044.", "pii": ["jane.roe@riverside-plant.com"]}
+{"id": "pii-366", "kind": "phone", "variant": "arabic_indic", "text": "٩٦٣ ٢٩٢ ٧١٤٦ - ask for the QA lead", "pii": ["٩٦٣ ٢٩٢ ٧١٤٦"]}
+{"id": "pii-367", "kind": "card", "variant": "spaces", "text": "my credit card number is 5375 1535 3316 4433", "pii": ["5375 1535 3316 4433"]}
+{"id": "pii-368", "kind": "none", "variant": "negative", "text": "I have one two three questions about the hold procedure.", "pii": []}
+{"id": "pii-369", "kind": "none", "variant": "negative", "text": "Quarantine LOT-00099 after the temperature alarm of 11.5 degrees.", "pii": []}
+{"id": "pii-370", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@example.com, phone (376) 013-1081, reported a deviation on LOT-00099.", "pii": ["li.wei@example.com", "(376) 013-1081"]}
+{"id": "pii-371", "kind": "phone", "variant": "dots", "text": "reach the night shift on 267.949.5908", "pii": ["267.949.5908"]}
+{"id": "pii-372", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-508?", "pii": []}
+{"id": "pii-373", "kind": "none", "variant": "negative", "text": "Lots 72, 72, 93, 69 and 51 are on hold.", "pii": []}
+{"id": "pii-374", "kind": "none", "variant": "negative", "text": "Buffer pH 7.0 at 23.1 C, lot LOT-26489.", "pii": []}
+{"id": "pii-375", "kind": "phone", "variant": "devanagari", "text": "३०९-९७९-६७१८ - ask for the QA lead", "pii": ["३०९-९७९-६७१८"]}
+{"id": "pii-376", "kind": "none", "variant": "negative", "text": "Buffer pH 7.1 at 24.2 C, lot LOT-88232.", "pii": []}
+{"id": "pii-377", "kind": "ssn", "variant": "zero_width", "text": "my social security number is 726-20​​-71​93", "pii": ["726-20​​-71​93"]}
+{"id": "pii-378", "kind": "ssn", "variant": "bare_ctx", "text": "Please verify 237142213 (SSN) against the record", "pii": ["237142213"]}
+{"id": "pii-379", "kind": "none", "variant": "negative", "text": "Store between 1 and 18 degrees Celsius for 2 months.", "pii": []}
+{"id": "pii-380", "kind": "none", "variant": "negative", "text": "Page 21 of 65; table 5, row 26.", "pii": []}
+{"id": "pii-381", "kind": "card", "variant": "spaces", "text": "my credit card number is 5186 3868 7005 3012", "pii": ["5186 3868 7005 3012"]}
+{"id": "pii-382", "kind": "phone", "variant": "parens", "text": "Operator phone: (681) 620-3099", "pii": ["(681) 620-3099"]}
+{"id": "pii-383", "kind": "phone", "variant": "spelled", "text": "reach the night shift on seven zero six two seven five two five three nine", "pii": ["seven zero six two seven five two five three nine"]}
+{"id": "pii-384", "kind": "multi", "variant": "email+phone", "text": "Operator hans.mueller@acme.io, phone (769) 087-0067, reported a deviation on LOT-00099.", "pii": ["hans.mueller@acme.io", "(769) 087-0067"]}
+{"id": "pii-385", "kind": "card", "variant": "dashes", "text": "my credit card number is 5567-6204-7782-5516", "pii": ["5567-6204-7782-5516"]}
+{"id": "pii-386", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-015?", "pii": []}
+{"id": "pii-387", "kind": "multi", "variant": "email+phone", "text": "Operator jane.roe@example.com, phone (384) 138-3027, reported a deviation on LOT-00099.", "pii": ["jane.roe@example.com", "(384) 138-3027"]}
+{"id": "pii-388", "kind": "card", "variant": "amex", "text": "my credit card number is 3726 415810 71108", "pii": ["3726 415810 71108"]}
+{"id": "pii-389", "kind": "none", "variant": "negative", "text": "Page 20 of 76; table 7, row 53.", "pii": []}
+{"id": "pii-390", "kind": "ssn", "variant": "spaces", "text": "ssn 418 47 1212 was typed in by mistake", "pii": ["418 47 1212"]}
+{"id": "pii-391", "kind": "phone", "variant": "plus1_spaces", "text": "Operator phone: +1 440 874 5721", "pii": ["+1 440 874 5721"]}
+{"id": "pii-392", "kind": "none", "variant": "negative", "text": "See section 5.3.7 and table 1 for limits.", "pii": []}
+{"id": "pii-393", "kind": "ssn", "variant": "dashes", "text": "Employee SSN: 964-93-0469", "pii": ["964-93-0469"]}
+{"id": "pii-394", "kind": "card", "variant": "spaces", "text": "my credit card number is 5108 9551 1284 7871", "pii": ["5108 9551 1284 7871"]}
+{"id": "pii-395", "kind": "phone", "variant": "plus1_spaces", "text": "+1 718 678 9288 - ask for the QA lead", "pii": ["+1 718 678 9288"]}
+{"id": "pii-396", "kind": "phone", "variant": "bare", "text": "reach the night shift on 6869137241", "pii": ["6869137241"]}
+{"id": "pii-397", "kind": "ssn", "variant": "fullwidth", "text": "badge ssn １８１-８１-９３２０ for the operator", "pii": ["１８１-８１-９３２０"]}
+{"id": "pii-398", "kind": "ssn", "variant": "spelled", "text": "Please verify nine three seven six one four nine one six (SSN) against the record", "pii": ["nine three seven six one four nine one six"]}
+{"id": "pii-399", "kind": "phone", "variant": "zero_width", "text": "reach the night shift on 224-4​12-69​2​3", "pii": ["224-4​12-69​2​3"]}
+{"id": "pii-400", "kind": "card", "variant": "dashes", "text": "Visa 5319-0261-8920-7111 exp 11/28", "pii": ["5319-0261-8920-7111"]}
+{"id": "pii-401", "kind": "phone", "variant": "parens", "text": "reach the night shift on (524) 000-6201", "pii": ["(524) 000-6201"]}
+{"id": "pii-402", "kind": "none", "variant": "negative", "text": "Verify LOT-68608 against protocol PROT-SAF-5.", "pii": []}
+{"id": "pii-403", "kind": "email", "variant": "bracket_at_dot", "text": "Send the report to maria_garcia[at]plant-two[dot]net.", "pii": ["maria_garcia[at]plant-two[dot]net"]}
+{"id": "pii-404", "kind": "ssn", "variant": "spaced_digits", "text": "ssn 3 3 3 7 8 5 6 0 4 was typed in by mistake", "pii": ["3 3 3 7 8 5 6 0 4"]}
+{"id": "pii-405", "kind": "email", "variant": "words_at_dot", "text": "Reach me at tom at plant-two dot net after the shift.", "pii": ["tom at plant-two dot net"]}
+{"id": "pii-406", "kind": "none", "variant": "negative", "text": "Lots 50, 33, 79, 26 and 61 are on hold.", "pii": []}
+{"id": "pii-407", "kind": "ssn", "variant": "spelled", "text": "Employee SSN: one four six three eight nine six zero zero", "pii": ["one four six three eight nine six zero zero"]}
+{"id": "pii-408", "kind": "none", "variant": "negative", "text": "Verify LOT-32041 against protocol PROT-SAF-8.", "pii": []}
+{"id": "pii-409", "kind": "none", "variant": "negative", "text": "There were five lots and two samples in the cold room.", "pii": []}
+{"id": "pii-410", "kind": "phone", "variant": "spaced_digits", "text": "reach the night shift on 2 0 0 1 9 5 3 6 0 8", "pii": ["2 0 0 1 9 5 3 6 0 8"]}
+{"id": "pii-411", "kind": "email", "variant": "standard", "text": "Reach me at olu.adeyemi@corp.example.org after the shift.", "pii": ["olu.adeyemi@corp.example.org"]}
+{"id": "pii-412", "kind": "multi", "variant": "email+phone", "text": "Operator k.nowak@mail.co.uk, phone (323) 124-1157, reported a deviation on LOT-00099.", "pii": ["k.nowak@mail.co.uk", "(323) 124-1157"]}
+{"id": "pii-413", "kind": "none", "variant": "negative", "text": "There are 1914 units and 33 samples in room 10.", "pii": []}
+{"id": "pii-414", "kind": "none", "variant": "negative", "text": "Buffer pH 5.7 at 28.8 C, lot LOT-29315.", "pii": []}
+{"id": "pii-415", "kind": "phone", "variant": "intl_in", "text": "my number is +91 98765 43210, which lot is ready?", "pii": ["+91 98765 43210"]}
+{"id": "pii-416", "kind": "email", "variant": "standard", "text": "My details: r.tanaka@plant-two.net", "pii": ["r.tanaka@plant-two.net"]}
+{"id": "pii-417", "kind": "multi", "variant": "email+phone", "text": "Operator bob.smith@gmail.com, phone (580) 500-4328, reported a deviation on LOT-00099.", "pii": ["bob.smith@gmail.com", "(580) 500-4328"]}
+{"id": "pii-418", "kind": "phone", "variant": "spaced_digits", "text": "Text 3 3 2 8 0 3 6 9 7 9 when LOT-00044 ships", "pii": ["3 3 2 8 0 3 6 9 7 9"]}
+{"id": "pii-419", "kind": "email", "variant": "standard", "text": "Send the report to qa.lead@riverside-plant.com.", "pii": ["qa.lead@riverside-plant.com"]}
+{"id": "pii-420", "kind": "ssn", "variant": "dashes", "text": "my social security number is 759-58-0855", "pii": ["759-58-0855"]}
+{"id": "pii-421", "kind": "none", "variant": "negative", "text": "Lots 66, 22, 1, 75 and 69 are on hold.", "pii": []}
+{"id": "pii-422", "kind": "phone", "variant": "spaces", "text": "reach the night shift on 825 370 8243", "pii": ["825 370 8243"]}
+{"id": "pii-423", "kind": "phone", "variant": "dots", "text": "Call 411.910.0147 to confirm the lot.", "pii": ["411.910.0147"]}
+{"id": "pii-424", "kind": "card", "variant": "dashes", "text": "pay with 4250-4580-4327-1054", "pii": ["4250-4580-4327-1054"]}
+{"id": "pii-425", "kind": "phone", "variant": "intl_in", "text": "reach the night shift on +91 98765 43210", "pii": ["+91 98765 43210"]}
+{"id": "pii-426", "kind": "phone", "variant": "dashes", "text": "Text 453-618-8061 when LOT-00044 ships", "pii": ["453-618-8061"]}
+{"id": "pii-427", "kind": "phone", "variant": "fullwidth", "text": "reach the night shift on ９６９-５４８-３８４５", "pii": ["９６９-５４８-３８４５"]}
+{"id": "pii-428", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@outlook.com, phone (247) 278-7000, reported a deviation on LOT-00099.", "pii": ["li.wei@outlook.com", "(247) 278-7000"]}
+{"id": "pii-429", "kind": "phone", "variant": "fullwidth", "text": "８１８-６４８-８５１５ - ask for the QA lead", "pii": ["８１８-６４８-８５１５"]}
+{"id": "pii-430", "kind": "none", "variant": "negative", "text": "We are on version 5.12.8 of the SOP.", "pii": []}
+{"id": "pii-431", "kind": "none", "variant": "negative", "text": "Store between 7 and 24 degrees Celsius for 46 months.", "pii": []}
+{"id": "pii-432", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@gmail.com, phone (861) 837-2788, reported a deviation on LOT-00099.", "pii": ["li.wei@gmail.com", "(861) 837-2788"]}
+{"id": "pii-433", "kind": "email", "variant": "standard", "text": "Owner: hans.mueller@plant-two.net", "pii": ["hans.mueller@plant-two.net"]}
+{"id": "pii-434", "kind": "none", "variant": "negative", "text": "There are 4766 units and 57 samples in room 12.", "pii": []}
+{"id": "pii-435", "kind": "phone", "variant": "dashes", "text": "Call 307-149-3242 to confirm the lot.", "pii": ["307-149-3242"]}
+{"id": "pii-436", "kind": "email", "variant": "upper_words", "text": "My details: BOB.SMITH AT ACME DOT IO", "pii": ["BOB.SMITH AT ACME DOT IO"]}
+{"id": "pii-437", "kind": "card", "variant": "dashes", "text": "billing card: 5273-1823-7118-5120", "pii": ["5273-1823-7118-5120"]}
+{"id": "pii-438", "kind": "none", "variant": "negative", "text": "Lots 87, 36, 51, 66 and 16 are on hold.", "pii": []}
+{"id": "pii-439", "kind": "ssn", "variant": "dashes", "text": "badge ssn 926-85-8035 for the operator", "pii": ["926-85-8035"]}
+{"id": "pii-440", "kind": "email", "variant": "upper_words", "text": "Reach me at QA.LEAD AT EXAMPLE DOT COM after the shift.", "pii": ["QA.LEAD AT EXAMPLE DOT COM"]}
+{"id": "pii-441", "kind": "card", "variant": "amex", "text": "card 3497 364881 03549 was charged for the sample kit", "pii": ["3497 364881 03549"]}
+{"id": "pii-442", "kind": "none", "variant": "negative", "text": "Hash prefix a6c862e3 appears in the log.", "pii": []}
+{"id": "pii-443", "kind": "none", "variant": "negative", "text": "Verify LOT-75230 against protocol PROT-SAF-2.", "pii": []}
+{"id": "pii-444", "kind": "email", "variant": "underscore", "text": "cc p.rossi_at_plant-two_dot_net on the deviation", "pii": ["p.rossi_at_plant-two_dot_net"]}
+{"id": "pii-445", "kind": "ssn", "variant": "bare_ctx", "text": "ssn 728572957 was typed in by mistake", "pii": ["728572957"]}
+{"id": "pii-446", "kind": "multi", "variant": "email+phone", "text": "Operator bob.smith@gmail.com, phone (503) 954-6403, reported a deviation on LOT-00099.", "pii": ["bob.smith@gmail.com", "(503) 954-6403"]}
+{"id": "pii-447", "kind": "email", "variant": "zero_width", "text": "My details: tom@a​cm​e.​io", "pii": ["tom@a​cm​e.​io"]}
+{"id": "pii-448", "kind": "ssn", "variant": "dots", "text": "badge ssn 163.94.3969 for the operator", "pii": ["163.94.3969"]}
+{"id": "pii-449", "kind": "card", "variant": "spaces", "text": "pay with 5362 0385 7787 7401", "pii": ["5362 0385 7787 7401"]}
+{"id": "pii-450", "kind": "ssn", "variant": "dashes", "text": "badge ssn 749-86-5147 for the operator", "pii": ["749-86-5147"]}
+{"id": "pii-451", "kind": "email", "variant": "paren_at_dot", "text": "Please contact dev.ops (at) gmail (dot) com about LOT-00044.", "pii": ["dev.ops (at) gmail (dot) com"]}
+{"id": "pii-452", "kind": "none", "variant": "negative", "text": "Open a deviation for LOT-00120.", "pii": []}
+{"id": "pii-453", "kind": "email", "variant": "standard", "text": "Owner: m.silva@mail.co.uk", "pii": ["m.silva@mail.co.uk"]}
+{"id": "pii-454", "kind": "phone", "variant": "parens", "text": "my number is (308) 171-4976, which lot is ready?", "pii": ["(308) 171-4976"]}
+{"id": "pii-455", "kind": "phone", "variant": "bare", "text": "my number is 8711367179, which lot is ready?", "pii": ["8711367179"]}
+{"id": "pii-456", "kind": "none", "variant": "negative", "text": "Verify LOT-70867 against protocol PROT-SAF-9.", "pii": []}
+{"id": "pii-457", "kind": "phone", "variant": "spelled", "text": "Operator phone: five eight zero nine zero five five four nine eight", "pii": ["five eight zero nine zero five five four nine eight"]}
+{"id": "pii-458", "kind": "ssn", "variant": "spelled", "text": "Employee SSN: one nine three three zero seven zero seven zero", "pii": ["one nine three three zero seven zero seven zero"]}
+{"id": "pii-459", "kind": "email", "variant": "paren_at_dot", "text": "Reach me at dev.ops (at) riverside-plant (dot) com after the shift.", "pii": ["dev.ops (at) riverside-plant (dot) com"]}
+{"id": "pii-460", "kind": "email", "variant": "zero_width", "text": "bob.smith@riversid​​​e-plant.com is the reviewer for this request.", "pii": ["bob.smith@riversid​​​e-plant.com"]}
+{"id": "pii-461", "kind": "none", "variant": "negative", "text": "Verify LOT-52069 against protocol PROT-SAF-5.", "pii": []}
+{"id": "pii-462", "kind": "email", "variant": "standard", "text": "Owner: hans.mueller@riverside-plant.com", "pii": ["hans.mueller@riverside-plant.com"]}
+{"id": "pii-463", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-218?", "pii": []}
+{"id": "pii-464", "kind": "none", "variant": "negative", "text": "Both LOT-29213 and LOT-60478 map to SKU-701.", "pii": []}
+{"id": "pii-465", "kind": "phone", "variant": "dots", "text": "Call 284.044.4278 to confirm the lot.", "pii": ["284.044.4278"]}
+{"id": "pii-466", "kind": "card", "variant": "dashes", "text": "Visa 5267-5463-6090-9203 exp 11/28", "pii": ["5267-5463-6090-9203"]}
+{"id": "pii-467", "kind": "phone", "variant": "parens", "text": "reach the night shift on (587) 253-2227", "pii": ["(587) 253-2227"]}
+{"id": "pii-468", "kind": "ssn", "variant": "dashes", "text": "Please verify 778-37-0306 (SSN) against the record", "pii": ["778-37-0306"]}
+{"id": "pii-469", "kind": "email", "variant": "spaced_at", "text": "cc jane.roe @ outlook.com on the deviation", "pii": ["jane.roe @ outlook.com"]}
+{"id": "pii-470", "kind": "email", "variant": "bracket_at_dot", "text": "Forward LOT-88392 status to hans.mueller[at]acme[dot]io please", "pii": ["hans.mueller[at]acme[dot]io"]}
+{"id": "pii-471", "kind": "email", "variant": "fullwidth", "text": "ｍ．ｓｉｌｖａ＠ｍａｉｌ．ｃｏ．ｕｋ is the reviewer for this request.", "pii": ["ｍ．ｓｉｌｖａ＠ｍａｉｌ．ｃｏ．ｕｋ"]}
+{"id": "pii-472", "kind": "none", "variant": "negative", "text": "Invoice total $4,218.45 due in 20 days.", "pii": []}
+{"id": "pii-473", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-383?", "pii": []}
+{"id": "pii-474", "kind": "none", "variant": "negative", "text": "Store between 4 and 20 degrees Celsius for 51 months.", "pii": []}
+{"id": "pii-475", "kind": "none", "variant": "negative", "text": "The audit seq is 1048 and the chain has 12 rows.", "pii": []}
+{"id": "pii-476", "kind": "phone", "variant": "dashes", "text": "Text 545-223-4665 when LOT-00044 ships", "pii": ["545-223-4665"]}
+{"id": "pii-477", "kind": "none", "variant": "negative", "text": "The gateway is at 192.168.62.216 on port 5321.", "pii": []}
+{"id": "pii-478", "kind": "none", "variant": "negative", "text": "Hash d0c1acff6d90 was logged for the build.", "pii": []}
+{"id": "pii-479", "kind": "phone", "variant": "plus1_spaces", "text": "Escalate to +1 750 453 5878 after hours.", "pii": ["+1 750 453 5878"]}
+{"id": "pii-480", "kind": "phone", "variant": "dots", "text": "Escalate to 866.428.7428 after hours.", "pii": ["866.428.7428"]}
+{"id": "pii-481", "kind": "phone", "variant": "bare", "text": "my number is 4437313672, which lot is ready?", "pii": ["4437313672"]}
+{"id": "pii-482", "kind": "multi", "variant": "email+phone", "text": "Operator a.kumar@outlook.com, phone (387) 670-4651, reported a deviation on LOT-00099.", "pii": ["a.kumar@outlook.com", "(387) 670-4651"]}
+{"id": "pii-483", "kind": "none", "variant": "negative", "text": "We are on version 11.12.18 of the SOP.", "pii": []}
+{"id": "pii-484", "kind": "none", "variant": "negative", "text": "Revision 12 of document SOP-QA-0765 applies.", "pii": []}
+{"id": "pii-485", "kind": "card", "variant": "dots", "text": "Visa 5221.1779.0146.5417 exp 11/28", "pii": ["5221.1779.0146.5417"]}
+{"id": "pii-486", "kind": "ssn", "variant": "dashes", "text": "Employee SSN: 591-91-0730", "pii": ["591-91-0730"]}
+{"id": "pii-487", "kind": "none", "variant": "negative", "text": "What is the status of lot 44?", "pii": []}
+{"id": "pii-488", "kind": "email", "variant": "standard", "text": "My details: qa.lead@example.com", "pii": ["qa.lead@example.com"]}
+{"id": "pii-489", "kind": "ssn", "variant": "dashes", "text": "ssn 208-38-7264 was typed in by mistake", "pii": ["208-38-7264"]}
+{"id": "pii-490", "kind": "card", "variant": "fullwidth", "text": "my credit card number is ４２２７ ３８８２ ５４６９ ０７３６", "pii": ["４２２７ ３８８２ ５４６９ ０７３６"]}
+{"id": "pii-491", "kind": "none", "variant": "negative", "text": "Cycle count 34487 finished in 167 seconds with 4 faults.", "pii": []}
+{"id": "pii-492", "kind": "phone", "variant": "spelled_dashed", "text": "three three eight - two one two - three nine eight zero - ask for the QA lead", "pii": ["three three eight - two one two - three nine eight zero"]}
+{"id": "pii-493", "kind": "none", "variant": "negative", "text": "Reviewer approval is required for PROT-SAF-7.", "pii": []}
+{"id": "pii-494", "kind": "ssn", "variant": "spaces", "text": "badge ssn 692 29 1751 for the operator", "pii": ["692 29 1751"]}
+{"id": "pii-495", "kind": "email", "variant": "zero_width", "text": "Reach me at r​.ta​nak​a@riverside-plant.com after the shift.", "pii": ["r​.ta​nak​a@riverside-plant.com"]}
+{"id": "pii-496", "kind": "email", "variant": "fullwidth", "text": "Reach me at ｔｏｍ＠ａｃｍｅ．ｉｏ after the shift.", "pii": ["ｔｏｍ＠ａｃｍｅ．ｉｏ"]}
+{"id": "pii-497", "kind": "phone", "variant": "plus1_spaces", "text": "reach the night shift on +1 435 549 1184", "pii": ["+1 435 549 1184"]}
+{"id": "pii-498", "kind": "phone", "variant": "dashes", "text": "Call 637-136-5844 to confirm the lot.", "pii": ["637-136-5844"]}
+{"id": "pii-499", "kind": "phone", "variant": "spaced_digits", "text": "reach the night shift on 4 0 8 2 0 0 9 8 2 9", "pii": ["4 0 8 2 0 0 9 8 2 9"]}
+{"id": "pii-500", "kind": "phone", "variant": "dots", "text": "Escalate to 654.840.4703 after hours.", "pii": ["654.840.4703"]}
+{"id": "pii-501", "kind": "card", "variant": "amex", "text": "billing card: 3733 983860 85713", "pii": ["3733 983860 85713"]}
+{"id": "pii-502", "kind": "ssn", "variant": "spaces", "text": "badge ssn 359 11 8473 for the operator", "pii": ["359 11 8473"]}
+{"id": "pii-503", "kind": "ssn", "variant": "dashes", "text": "my social security number is 125-85-3304", "pii": ["125-85-3304"]}
+{"id": "pii-504", "kind": "none", "variant": "negative", "text": "Verify LOT-96782 against protocol PROT-SAF-10.", "pii": []}
+{"id": "pii-505", "kind": "email", "variant": "standard", "text": "Owner: olu.adeyemi@gmail.com", "pii": ["olu.adeyemi@gmail.com"]}
+{"id": "pii-506", "kind": "card", "variant": "zero_width", "text": "Visa 55​61 3569 66​21 129​0 exp 11/28", "pii": ["55​61 3569 66​21 129​0"]}
+{"id": "pii-507", "kind": "none", "variant": "negative", "text": "PO number 6638294976 was raised for the cold room compressor.", "pii": []}
+{"id": "pii-508", "kind": "none", "variant": "negative", "text": "Revision 13 of document SOP-QA-0901 applies.", "pii": []}
+{"id": "pii-509", "kind": "email", "variant": "zero_width", "text": "Reach me at m.silva@​ri​ve​rside-plant.com after the shift.", "pii": ["m.silva@​ri​ve​rside-plant.com"]}
+{"id": "pii-510", "kind": "email", "variant": "zero_width", "text": "Forward LOT-88392 status to qa.lea​d@​plant-​two.net please", "pii": ["qa.lea​d@​plant-​two.net"]}
+{"id": "pii-511", "kind": "none", "variant": "negative", "text": "Both LOT-92563 and LOT-10083 map to SKU-487.", "pii": []}
+{"id": "pii-512", "kind": "email", "variant": "bracket_at_dot", "text": "Please contact qa.lead[at]corp[dot]example[dot]org about LOT-00044.", "pii": ["qa.lead[at]corp[dot]example[dot]org"]}
+{"id": "pii-513", "kind": "none", "variant": "negative", "text": "There are 2448 units and 20 samples in room 1.", "pii": []}
+{"id": "pii-514", "kind": "email", "variant": "standard", "text": "Please contact li.wei@plant-two.net about LOT-00044.", "pii": ["li.wei@plant-two.net"]}
+{"id": "pii-515", "kind": "ssn", "variant": "spaces", "text": "Please verify 566 84 5464 (SSN) against the record", "pii": ["566 84 5464"]}
+{"id": "pii-516", "kind": "email", "variant": "spaced_at", "text": "Send the report to tom @ plant-two.net.", "pii": ["tom @ plant-two.net"]}
+{"id": "pii-517", "kind": "ssn", "variant": "zero_width", "text": "ssn 1​0​4-15-8​006 was typed in by mistake", "pii": ["1​0​4-15-8​006"]}
+{"id": "pii-518", "kind": "email", "variant": "standard", "text": "Send the report to jane.roe@outlook.com.", "pii": ["jane.roe@outlook.com"]}
+{"id": "pii-519", "kind": "card", "variant": "spaces", "text": "billing card: 5110 8871 6394 7761", "pii": ["5110 8871 6394 7761"]}
+{"id": "pii-520", "kind": "email", "variant": "standard", "text": "cc li.wei@riverside-plant.com on the deviation", "pii": ["li.wei@riverside-plant.com"]}
+{"id": "pii-521", "kind": "phone", "variant": "bare", "text": "6608844810 - ask for the QA lead", "pii": ["6608844810"]}
+{"id": "pii-522", "kind": "none", "variant": "negative", "text": "Revision 9 of document SOP-QA-0958 applies.", "pii": []}
+{"id": "pii-523", "kind": "email", "variant": "words_at_dot", "text": "hans dot mueller at outlook dot com is the reviewer for this request.", "pii": ["hans dot mueller at outlook dot com"]}
+{"id": "pii-524", "kind": "email", "variant": "standard", "text": "jane.roe@acme.io is the reviewer for this request.", "pii": ["jane.roe@acme.io"]}
+{"id": "pii-525", "kind": "ssn", "variant": "spelled", "text": "Employee SSN: nine three four six two two two nine eight", "pii": ["nine three four six two two two nine eight"]}
+{"id": "pii-526", "kind": "none", "variant": "negative", "text": "We are on version 1.3.8 of the SOP.", "pii": []}
+{"id": "pii-527", "kind": "none", "variant": "negative", "text": "We are on version 9.8.18 of the SOP.", "pii": []}
+{"id": "pii-528", "kind": "ssn", "variant": "spaces", "text": "ssn 490 08 0943 was typed in by mistake", "pii": ["490 08 0943"]}
+{"id": "pii-529", "kind": "none", "variant": "negative", "text": "There are 7933 units and 89 samples in room 19.", "pii": []}
+{"id": "pii-530", "kind": "phone", "variant": "parens", "text": "Call (807) 889-5778 to confirm the lot.", "pii": ["(807) 889-5778"]}
+{"id": "pii-531", "kind": "none", "variant": "negative", "text": "What is the shelf life of SKU-116?", "pii": []}
+{"id": "pii-532", "kind": "card", "variant": "spaces", "text": "billing card: 5244 1505 2355 0315", "pii": ["5244 1505 2355 0315"]}
+{"id": "pii-533", "kind": "none", "variant": "negative", "text": "Store between 5 and 8 degrees Celsius for 9 months.", "pii": []}
+{"id": "pii-534", "kind": "none", "variant": "negative", "text": "There are 1633 units and 67 samples in room 15.", "pii": []}
+{"id": "pii-535", "kind": "phone", "variant": "parens", "text": "Call (392) 667-5349 to confirm the lot.", "pii": ["(392) 667-5349"]}
+{"id": "pii-536", "kind": "email", "variant": "words_at_dot", "text": "Reach me at r dot tanaka at corp dot example dot org after the shift.", "pii": ["r dot tanaka at corp dot example dot org"]}
+{"id": "pii-537", "kind": "phone", "variant": "devanagari", "text": "Operator phone: ६४९-८९१-९७८२", "pii": ["६४९-८९१-९७८२"]}
+{"id": "pii-538", "kind": "email", "variant": "standard", "text": "cc bob.smith@example.com on the deviation", "pii": ["bob.smith@example.com"]}
+{"id": "pii-539", "kind": "email", "variant": "underscore", "text": "Owner: r.tanaka_at_example_dot_com", "pii": ["r.tanaka_at_example_dot_com"]}
+{"id": "pii-540", "kind": "none", "variant": "negative", "text": "Store between 4 and 23 degrees Celsius for 24 months.", "pii": []}
+{"id": "pii-541", "kind": "none", "variant": "negative", "text": "Revision 8 of document SOP-QA-0475 applies.", "pii": []}
+{"id": "pii-542", "kind": "card", "variant": "dashes", "text": "my credit card number is 5135-6015-0312-8664", "pii": ["5135-6015-0312-8664"]}
+{"id": "pii-543", "kind": "multi", "variant": "email+phone", "text": "Operator li.wei@gmail.com, phone (982) 116-5062, reported a deviation on LOT-00099.", "pii": ["li.wei@gmail.com", "(982) 116-5062"]}
+{"id": "pii-544", "kind": "ssn", "variant": "dots", "text": "badge ssn 122.34.5947 for the operator", "pii": ["122.34.5947"]}
+{"id": "pii-545", "kind": "email", "variant": "standard", "text": "Reach me at qa.lead@plant-two.net after the shift.", "pii": ["qa.lead@plant-two.net"]}
+{"id": "pii-546", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-04-19 at 18:30:00.", "pii": []}
+{"id": "pii-547", "kind": "card", "variant": "spaced_digits", "text": "billing card: 5 3 0 1 4 4 1 4 6 6 0 6 6 1 2 4", "pii": ["5 3 0 1 4 4 1 4 6 6 0 6 6 1 2 4"]}
+{"id": "pii-548", "kind": "phone", "variant": "dashes", "text": "reach the night shift on 415-555-4572", "pii": ["415-555-4572"]}
+{"id": "pii-549", "kind": "card", "variant": "spaced_digits", "text": "card 5 1 9 8 0 6 3 0 8 9 2 9 0 2 8 1 was charged for the sample kit", "pii": ["5 1 9 8 0 6 3 0 8 9 2 9 0 2 8 1"]}
+{"id": "pii-550", "kind": "email", "variant": "brace_at_dot", "text": "Reach me at maria_garcia{at}example{dot}com after the shift.", "pii": ["maria_garcia{at}example{dot}com"]}
+{"id": "pii-551", "kind": "none", "variant": "negative", "text": "Pack dimensions are 61 x 43 x 18 cm, weight 32.3 kg.", "pii": []}
+{"id": "pii-552", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-03-13 at 13:50:00.", "pii": []}
+{"id": "pii-553", "kind": "phone", "variant": "plus1_spaces", "text": "Escalate to +1 346 295 0078 after hours.", "pii": ["+1 346 295 0078"]}
+{"id": "pii-554", "kind": "email", "variant": "paren_at_dot", "text": "Reach me at k.nowak (at) acme (dot) io after the shift.", "pii": ["k.nowak (at) acme (dot) io"]}
+{"id": "pii-555", "kind": "none", "variant": "negative", "text": "Page 23 of 89; table 5, row 12.", "pii": []}
+{"id": "pii-556", "kind": "card", "variant": "spaces", "text": "my credit card number is 5548 7804 3629 5807", "pii": ["5548 7804 3629 5807"]}
+{"id": "pii-557", "kind": "ssn", "variant": "dashes", "text": "badge ssn 770-50-1815 for the operator", "pii": ["770-50-1815"]}
+{"id": "pii-558", "kind": "none", "variant": "negative", "text": "The batch was packed on 2026-10-18 at 16:13:00.", "pii": []}

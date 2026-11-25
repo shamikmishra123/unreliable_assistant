@@ -1,0 +1,16 @@
+{
+ "algorithm": "ed25519",
+ "manifest": {
+  "server": "mcp-graphify-vault",
+  "tools": [
+   {
+    "hitl_gate": false,
+    "input_schema_sha256": "94e408f6be0b6ecbb2c9b9df7a5444e7556c2534e0ec92f1899db7abb118de6f",
+    "internal": false,
+    "name": "graph_subgraph",
+    "tier": "TIER_1_READ"
+   }
+  ]
+ },
+ "signature": "d56b61e6ef9f951afcd70823f00d69c678faca84029a946c89d9a453209e604d6fff4e37db951aa70bf89bf937a1423926b90af0a489a0c38ca1379f9f307f03"
+}

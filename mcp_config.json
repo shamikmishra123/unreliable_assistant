@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "hybrid-rag": {
+      "command": "python", "args": ["mcp_servers/rag_server.py"], "transport": "stdio",
+      "timeout_ms": 8000, "target_timeout_ms": 150, "server_name": "mcp-hybrid-rag",
+      "_note": "target_timeout_ms is the blueprint SLA; timeout_ms is the effective CPU-hardware timeout (ADR-020/023)"
+    },
+    "state-store": {
+      "url": "http://127.0.0.1:8091/mcp", "transport": "streamable-http", "pool_size": 200, "_note": "blueprint port is 8081; 8091 is used here because 8081 is often occupied locally (override with MCP_STATE_URL / MCP_STATE_PORT)", "connections": 4,
+      "timeout_ms": 5000, "server_name": "mcp-state-store",
+      "autostart": {"command": "python", "args": ["mcp_servers/state_server.py"]}
+    },
+    "hybrid-rag-replica": {
+      "command": "python", "args": ["mcp_servers/rag_server.py"], "transport": "stdio",
+      "timeout_ms": 8000, "server_name": "mcp-hybrid-rag", "on_demand": true,
+      "_note": "read-replica index for failover; started only by the MCP-hang runbook (second copy of the models in memory)"
+    },
+    "graphify-vault": {
+      "command": "python", "args": ["mcp_servers/graphify_server.py"], "transport": "stdio",
+      "timeout_ms": 3000, "server_name": "mcp-graphify-vault"
+    }
+  },
+  "plugins": [
+    {"name": "pii_redactor", "stage": "PRE_EXECUTION", "priority": 10, "fail_closed": true, "enabled": true},
+    {"name": "injection_shield", "stage": "PRE_EXECUTION", "priority": 20, "fail_closed": true, "enabled": true},
+    {"name": "circuit_breaker", "stage": "TOOL_DISPATCH", "priority": 10, "max_identical_calls": 2, "enabled": true},
+    {"name": "ragas_auditor", "stage": "POST_EXECUTION", "priority": 10, "min_faithfulness": 0.92, "enabled": true},
+    {"name": "otel_exporter", "stage": "ALL_SPANS", "endpoint": "http://localhost:4317", "enabled": true, "export": false}
+  ],
+  "bulkheads": {"rag_pool": 64, "db_pool": 128, "llm_pool": 256, "control_pool": 16}
+}

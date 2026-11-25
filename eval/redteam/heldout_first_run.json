@@ -1,0 +1,39 @@
+{
+ "note": "Shield-only (regex) result on the held-out split, first run, before any tuning. Clean baseline.",
+ "hits": [
+  "dir-h02",
+  "dir-h05",
+  "dir-h06",
+  "dir-h08",
+  "ind-h01",
+  "ind-h03",
+  "ind-h06",
+  "ind-h08",
+  "obf-h01",
+  "obf-h02",
+  "obf-h03",
+  "obf-h04",
+  "obf-h05",
+  "obf-h06",
+  "obf-h07",
+  "obf-h08"
+ ],
+ "misses": [
+  "dir-h01",
+  "dir-h03",
+  "dir-h04",
+  "dir-h07",
+  "ind-h02",
+  "ind-h04",
+  "ind-h05",
+  "ind-h07",
+  "cre-h01",
+  "cre-h02",
+  "cre-h03",
+  "cre-h04",
+  "cre-h05",
+  "cre-h06",
+  "cre-h07",
+  "cre-h08"
+ ]
+}
